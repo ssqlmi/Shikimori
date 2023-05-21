@@ -1,0 +1,427 @@
+
+/* IMG */
+https://pbs.twimg.com/media/EwxzhYJWEAQiv_e.jpg:large /* Vagabond Colored */
+https://wallpapercave.com/wp/wp4047756.jpg /* Black Wawes */
+
+/* GIF for Achievements */
+https://i.pinimg.com/originals/39/14/41/3914410e050e19856057e8afe77a1471.gif /* Ромашки */
+https://i.pinimg.com/originals/a1/b9/3f/a1b93f3e77d61dea83d6a4b2923efcd3.gif /* Звезды и девушка */
+https://i.pinimg.com/originals/a9/c8/c1/a9c8c1ff6aea2157dfc8b73b1b81ebbb.gif /* Роза из "Cowboy BeBop" */
+
+
+/* Main - Shikimori */ 
+/* ------------------------------------------------------------------------------------------------------------------------------------------------------*/ 
+/* E-design Дополнение */
+/* 02_Однотонные списки аниме и манги */
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/q02_monocolor_citrus_list.css"); 
+/* 03_(Аниме/Ранобэ/Манга) в Истории*/
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/q03_history_bookmarks.css");
+/* 08_Альтернативное меню*/
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/q08_alter_sitemenu.css"); 
+/* 09_Видоизмененное избранное*/
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/q09_favourite-anime-manga.css"); 
+/* Дополнение к 09_Видоизмененное избранное (меняем избранное на экранах менее 1200px)*/
+@import url(https://raw.githubusercontent.com/ALTaww/Shikimori-Modified-favorites/main/code.css);
+/* E-design */
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_1.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_2.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_3.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/main_code_4mob.css");
+@import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/prof_form_citrus.css");
+body {
+    font-family: "Open Sans", "Open Sans", sans-serif !important; /* Font */
+}
+body:after {
+  background-image: url(https://wallpapercave.com/wp/wp4047756.jpg);
+}
+.l-footer:after {
+  content: "*Yin Yang*";
+}
+@media screen and (min-width: 1px) {
+  .correct-mob-version {
+    color: inherit;
+  }
+}
+
+@media screen and (min-width: 1px) {
+  html:root {
+    --white-color: 219, 219, 219;
+    --light-color: 184, 184, 184;
+    --dark-color: 155, 155, 155;
+    --bright-color: 217, 217, 217;
+    --dull-color: 117, 117, 117;
+    --input-color: 79, 79, 79;
+    --hover-bottoms-1: 43, 43, 43;
+    --buttoms-color: 74, 74, 74;
+    --hover-buttoms-2: 140, 140, 140;
+    --very-high-rating: 80, 80, 80;
+    --high-rating: 70, 70, 70;
+    --average-rating: 60, 60, 60;
+    --small-rating: 50, 50, 50;
+    --time-filled: 80, 80, 80;
+    --time-empty: 45, 45, 45;
+    --anime-inprocess: 69, 146, 76;
+    --anime-complete: 41, 107, 47;
+    --manga-inprocess: 189, 15, 86;
+    --manga-complete: 153, 0, 62;
+    --hover-color: 255, 153, 51;
+    --shadows-color: 150, 150, 150;
+    --block-color: 70, 70, 70;
+    --menu-back: 5, 5, 5;
+    --nick-cover: 40, 40, 40;
+    --popup-color: 39, 39, 39;
+    --hundred: 1;
+  }
+}
+
+@import url(https://raw.githubusercontent.com/ssqlmi/Shikimori/main/box-shadow);		 		/* box-shadow в раскрывающемся списке */
+@import url(https://raw.githubusercontent.com/ssqlmi/Shikimori/main/GIF-Avatar);				/*GIf-Avatar*/
+@import url(https://raw.githubusercontent.com/ssqlmi/Shikimori/main/Favorite-Characters-GIF); 	/* Favorite - Characters - GIF */
+@import url(https://raw.githubusercontent.com/ssqlmi/Shikimori/main/Favorite-Anime-GIF); 		/* Favorite - Anime - GIF */
+
+
+
+/* Achievements */
+/* ----------------------------------------------------------------------------------------------------------------------------------------------------- */ 
+/*Достижения изменение вида*/
+@media screen and (min-width: 1200px) {
+   #profiles_show .achievements .cc-2 > .c-column:first-child,
+   #profiles_show .achievements .cc-2 > .c-column:nth-child(2) {
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+   }
+   #profiles_show .achievements .cc-2 > .c-column:nth-child(3),
+   #profiles_show .achievements .cc-2 > .c-column:nth-child(4) {
+      margin-bottom: 0;
+      width: 49.5%;
+   }
+   #profiles_show .achievements .cc-2 > .c-column:nth-child(3) {
+      margin-right: 1%;
+   }
+   #profiles_show .achievements .cc-2 > .c-column:nth-child(4) {
+      margin-left: 0;
+      margin-top: 0;
+   }
+   #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge {
+      margin: 4px 4.3% -3% 0;
+      width: 29%;
+   }
+   #profiles_show .achievements .cc-authors .b-achievement:nth-child(5),
+   #profiles_show .achievements .cc-authors .b-achievement:nth-child(6) {
+      display: inherit;
+   }
+   #profiles_show .achievements .cc-authors {
+      flex-wrap: wrap;
+      right: 1px;
+      position: relative;
+   }
+   #profiles_show.p-profiles-show .achievements .cc-authors .b-achievement {
+      width: 30.8%;
+      margin: 16.75px 1.25% -0.5px 1.25%;
+   }
+   #profiles_show .cc-franchises {
+      flex-wrap: wrap;
+      justify-content: center;
+      position: relative;
+      left: 6px;
+   }
+   #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge:nth-child(5),
+   #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge:nth-child(6) {
+      display: block;
+   }
+}
+
+/*Замена постеров*/
+/*Внутри профиля! Франшизы*/
+   #profiles_show .cc-franchises .b-badge::after {
+      content: "";
+      position: absolute;
+      left: 2px;
+      top: 2px;
+      background-size: cover;
+      pointer-events: auto;
+      box-shadow: none !important;
+      width: calc(107% - 4px);
+      height: calc(76% - 4px);
+      pointer-events: none;
+      border-radius: 0.5rem;
+   }
+   #profiles_show .cc-franchises .b-badge::before {
+      content: "";
+      position: absolute;
+      height: 76%;
+      width: 107%;
+      left: 0;
+      top: 0;
+      border-radius: 0.5rem;
+      transition: 0s ease-out, box-shadow 0.2s ease-out, transform 0.2s ease-out;
+      pointer-events: auto;
+      opacity: 1;
+      font-size: 0;
+      background: none;
+      visibility: visible !important;
+   }
+   #profiles_show a.b-badge:hover::before {
+      box-shadow: none;
+      background: none;
+   }
+/* Рамка при наведении на Франшизы */
+   #profiles_show .cc-franchises .b-badge::before {
+      box-shadow: 0 0 0 2px rgba(var(--block-color), 0.6);
+   }
+   #profiles_show .cc-franchises .b-badge:hover::before {
+      box-shadow: -20px 20px 0 -17px rgb(62 62 62 / 85%),
+         20px -20px 0 -17px #383838, 20px 20px 0 -20px rgb(0 0 0 / 80%),
+         0 0 0 2px rgb(0 0 0 / 80%);
+   }
+
+/*Скрываем родные постеры */
+   #profiles_show .cc-franchises .b-badge img,
+	.p-achievements-index .b-badge[href$="/haou_daikei_ryuu_knight"]
+  .p-achievements-franchise .b-badge[href$="/haou_daikei_ryuu_knight"]{ 
+      visibility: hidden; 
+   }
+
+/*Картинка скоро*/
+  #profiles_show .cc-franchises .b-badge::after {
+    background-image: url("https://sun9-5.userapi.com/impg/ZGoZ3FGHL5-lYzMf3wFijHQIy2QHaT2fUMUfZA/K8gIb1rLqrc.jpg?size=1280x720&quality=96&sign=19ec4684493fd54b07729c68efd7ea87&c_uniq_tag=UKW5eFNhGxFOu1yeenUL3chtoMPhhAcaGKy3Bj_8CNA&type=album");
+  }
+
+/* Achievements ---------------- Изменить постер: Франшизы---------------- */
+	/* One Punch Man */
+   #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"]::after,
+	.p-achievements-index .b-badge[href$="/one_punch_man"],
+	.p-achievements-franchise .b-badge[href$="/one_punch_man"]{
+      background-image: url("https://media.tenor.com/YH-LbMCZTrEAAAAd/okay-onepunchman.gif");
+   }
+	/* Tokyo Ghoul */
+   #profiles_show .cc-franchises .b-badge[href$="/tokyo_ghoul"]::after,
+	.p-achievements-index .b-badge[href$="/tokyo_ghoul"],
+	.p-achievements-franchise .b-badge[href$="/tokyo_ghoul"]{
+      background-image: url("https://media.tenor.com/pKkf9quQH-MAAAAC/tokyo-ghoul-power.gif ");
+   }
+	/* Attack on Titans */
+   #profiles_show .cc-franchises .b-badge[href$="/shingeki_no_kyojin"]::after,
+	.p-achievements-index .b-badge[href$="/shingeki_no_kyojin"],
+	.p-achievements-franchise .b-badge[href$="/shingeki_no_kyojin"]{
+      background-image: url("https://media.tenor.com/vxuKgx3smEcAAAAC/titan-attack-on-titans.gif");
+   }
+	/* Demon Slayer */
+   #profiles_show .cc-franchises .b-badge[href$="/demon_slayer"]::after,
+	.p-achievements-index .b-badge[href$="/demon_slayer"],
+	.p-achievements-franchise .b-badge[href$="/demon_slayer"]{
+      background-image: url("https://media.tenor.com/jvbPYIiSRr4AAAAC/rengoku-kyojuro.gif");
+   }
+	/* Mob Psycho 100 */
+   #profiles_show .cc-franchises .b-badge[href$="/mob_psycho"]::after,
+	.p-achievements-index .b-badge[href$="/mob_psycho"],
+	.p-achievements-franchise .b-badge[href$="/mob_psycho"]{
+      background-image: url("https://media.tenor.com/TY55ceO0B3MAAAAd/reigen-mob-psycho100.gif");
+   }
+	/* Класс убийц */
+   #profiles_show .cc-franchises .b-badge[href$="/ansatsu_kyoushitsu"]::after,
+	.p-achievements-index .b-badge[href$="/ansatsu_kyoushitsu"],
+	.p-achievements-franchise .b-badge[href$="/ansatsu_kyoushitsu"]{
+      background-image: url("https://media.tenor.com/mIYdjGufdioAAAAC/assassination-classroom.gif");
+   }
+	/* Kaguya Sama */
+   #profiles_show .cc-franchises .b-badge[href$="/kaguya_sama"]::after,
+	.p-achievements-index .b-badge[href$="/kaguya_sama"],
+	.p-achievements-franchise .b-badge[href$="/kaguya_sama"]{
+      background-image: url("https://media.tenor.com/nkVaxlCatJgAAAAd/chika-dance.gif");
+   }
+	/* Kuroko no Basket */
+   #profiles_show .cc-franchises .b-badge[href$="/kuroko_no_basket"]::after,
+	.p-achievements-index .b-badge[href$="/kuroko_no_basket"],
+	.p-achievements-franchise .b-badge[href$="/kuroko_no_basket"]{
+      background-image: url("https://media.tenor.com/fJYEXV_jyxQAAAAC/kuroko-no-basuke-anime.gif");
+   }
+	/* Psychopass */
+   #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"]::after,
+	.p-achievements-index .b-badge[href$="/psycho_pass"],
+	.p-achievements-franchise .b-badge[href$="/psycho_pass"]{
+      background-image: url("https://media.tenor.com/VO6YDna89-UAAAAC/makishima-makishima-shogo.gif");
+   }
+	/* Black Lagoon */
+   #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"]::after,
+	.p-achievements-index .b-badge[href$="/black_lagoon"],
+	.p-achievements-franchise .b-badge[href$="/black_lagoon"]{
+      background-image: url("https://media.tenor.com/rHy6sEVvq2YAAAAC/revy-black-lagoon.gif");
+   }
+
+/*Страница achievements-Франшизы
+#profiles_show .achievements .cc-franchises .b-badge { 
+   border-radius: 0.375rem;
+}
+.p-achievements-index.p-achievements .b-badge,
+.p-achievements-franchise.p-achievements .b-badge { 
+   border-radius: 9px;
+}
+.p-achievements-index .b-badge,
+.p-achievements-franchise .b-badge {  
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+.p-achievements-index .b-badge[href$="/shingeki_no_kyojin"] img,
+.p-achievements-franchise .b-badge[href$="/shingeki_no_kyojin"] img,
+.p-achievements-index .b-badge[href$="/tokyo_ghoul"] img,
+.p-achievements-franchise .b-badge[href$="/tokyo_ghoul"] img {
+   visibility: hidden;
+}
+
+.p-achievements-index .b-badge[href$="/shingeki_no_kyojin"],
+.p-achievements-franchise .b-badge[href$="/shingeki_no_kyojin"] {
+   background-image: url("https://desu.shikimori.one/system/images/original/110643.gif?1606727810");
+}
+.p-achievements-index .b-badge[href$="/tokyo_ghoul"],
+.p-achievements-franchise .b-badge[href$="/tokyo_ghoul"] {
+   background-image: url("https://nyaa.shikimori.one/system/images/original/110645.gif?1606727813");
+}
+*/
+
+/*Общие. Жанровые. Авторы.*/
+.p-profiles.p-achievements .b-achievement > .c-image > .inner:after {
+   max-width: 105%;
+   width: 104%;
+   height: 106%;
+   margin-left: -2%;
+   border-radius: 11px;
+}
+.p-profiles .b-achievement > .c-image > .inner:after {
+   position: absolute;
+   display: block;
+   content: "";
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+   visibility: visible !important;
+   z-index: auto;
+}
+
+/*скрыть родные постеры достижений*/
+.p-profiles .cc-achievements .b-achievement .inner img {
+   visibility: hidden;
+}
+/* Achievements ---------------- Изменить постер: Общее ---------------- */
+/* Общее количество Просмотренных аниме */
+.p-profiles .b-achievement[data-hint^="150 просмотренных аниме"] .inner:after {
+     box-shadow: 0 0 2px 1px #e4ba54; /*Золотая рамка*/
+   background-image: url("https://media.tenor.com/YEdX9c2T2hIAAAAd/your-name-anime-kimi-no-na-wa.gif");
+}
+/* Achievements ---------------- Изменить постер: Жанровые ---------------- */
+/* Безумие / Психологическое 1 уровня */
+.p-profiles .b-achievement[data-hint^="Безумие / Психологическое 1 уровня"] .inner:after {
+   box-shadow: 0 0 2px 1px #54e454;
+   background-image: url("https://media.tenor.com/iaq02aYAdWcAAAAd/neon-genesis.gif");
+}
+/* Драма 1 уровня */
+.p-profiles .b-achievement[data-hint^="Драма 1 уровня"] .inner:after {
+   box-shadow: 0 0 2px 1px #54e454;
+   background-image: url("https://i.pinimg.com/originals/65/20/2c/65202cff1f4ec57d1fb8f74f226179b8.gif");
+}
+/* Хоррор / Триллер 1 уровня */
+.p-profiles .b-achievement[data-hint^="Хоррор / Триллер 1 уровня"] .inner:after {
+   box-shadow: 0 0 2px 1px #54e454;
+   background-image: url("https://i.pinimg.com/originals/3d/36/30/3d36301b2d480fa7d897d34d3735ee61.gif");
+}
+#profiles_show .achievements .cc-franchises .b-badge { 
+   border-radius: 0.375rem;
+}
+
+/*Удаляем Авторов со страницы*/
+#profiles_show .achievements .cc-2 > .c-column:nth-child(4) {
+  display: none;
+}
+/*Добавляем 7 и 8 франшизы*/
+#profiles_show.p-profiles-show .achievements .cc-franchises .b-badge:nth-child(7), #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge:nth-child(8) {
+  display: inline-block;
+}
+
+/*Настраиваем Франшизы*/
+/*Ширина блока*/
+#profiles_show .achievements .cc-2 > .c-column:nth-child(3), #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge {
+  width: 100%;
+}
+#profiles_show .cc-franchises {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /*количество изображений в строке*/
+    grid-column-gap: 3.2%; /*Промежуток между изображениями*/
+    width: 97%;
+    left: 0.3rem;
+}
+@media screen and (min-width: 1024px) and (max-width: 1199px) {
+    #profiles_show .cc-franchises {
+      grid-template-columns: repeat(6, 1fr);
+      grid-column-gap: 2.1%;
+      width: 98%;
+  }
+  #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge {
+    margin-bottom: 0 !important;
+  }
+}
+@media screen and (max-width: 600px) {
+  #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge:nth-child(7), #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge:nth-child(8) {
+    	display: none;
+	}
+  #profiles_show .cc-franchises {
+      grid-template-columns: repeat(3, 1fr);
+      grid-column-gap: 4.2%;
+      width: 97%;
+  }
+}
+@media screen and (max-width: 472px) {
+  #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge:nth-child(5), #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge:nth-child(6) {
+    	display: none;
+	}
+  #profiles_show .cc-franchises {
+      grid-template-columns: repeat(2, 1fr);
+      grid-column-gap: 5.2%;
+      width: 97%;
+  }
+}
+/*Пустота между строками франшиз*/
+#profiles_show.p-profiles-show .achievements .cc-franchises .b-badge {
+  margin-bottom: -11%;
+}
+/*Общее и Жанровые делаю на всю ширину*/
+#profiles_show .achievements .cc-2 > .c-column:nth-child(1), #profiles_show .achievements .cc-2 > .c-column:nth-child(2) {
+  width: 100%;
+}
+#profiles_show.p-profiles-show .achievements .cc-achievements .b-badge {
+  width: 100%;
+}
+/*Настраиваем Общие и Жанровые достижения*/
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #profiles_show .achievements .c-column:nth-child(1) .cc-achievements .b-achievement, #profiles_show .achievements .c-column:nth-child(2) .cc-achievements .b-achievement {
+      width: 21%;
+  }
+}
+@media screen and (max-width: 767px) {
+  #profiles_show .achievements .c-column:nth-child(1) .cc-achievements .b-achievement, #profiles_show .achievements .c-column:nth-child(2) .cc-achievements .b-achievement {
+      width: 31%;
+  }
+  #profiles_show .achievements .cc-achievements .b-achievement:nth-child(3) {
+    display: inline-flex;
+  }
+}
+@media screen and (max-width: 472px) {
+  #profiles_show .achievements .c-column:nth-child(1) .cc-achievements .b-achievement, #profiles_show .achievements .c-column:nth-child(2) .cc-achievements .b-achievement {
+      width: 48%;
+  }
+  #profiles_show .achievements .cc-achievements .b-achievement:nth-child(3) {
+    display: none;
+  }
+}
+
+
+
+
+
+
+
