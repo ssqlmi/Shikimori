@@ -80,10 +80,10 @@
       background-image: url("https://media.tenor.com/vxuKgx3smEcAAAAC/titan-attack-on-titans.gif");
    }
    #profiles_show .cc-franchises .b-badge[href$="/tokyo_ghoul"]::after {
-      background-image: url("https://nyaa.shikimori.one/system/images/original/110645.gif?1606727813");
+      background-image: url("https://media.tenor.com/pKkf9quQH-MAAAAC/tokyo-ghoul-power.gif");
    }
    #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"]::after {
-      background-image: url("https://desu.shikimori.one/system/images/original/115108.gif?1621322178");
+      background-image: url("https://media.tenor.com/YH-LbMCZTrEAAAAd/okay-onepunchman.gif");
    }
    #profiles_show .cc-franchises .b-badge[href$="/demon_slayer"]::after {
       background-image: url("https://media.tenor.com/jvbPYIiSRr4AAAAC/rengoku-kyojuro.gif");
