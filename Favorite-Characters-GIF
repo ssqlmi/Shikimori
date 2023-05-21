@@ -1,0 +1,367 @@
+/* Favorite - Characters - GIF */
+.b-catalog_entry-tooltip .entry-tooltip_container > a img {   max-width: 160px; }
+/* ------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/* Inoske (Demon Slayer) */
+img[src*="/characters/146159/"] {
+  content: url("https://media.tenor.com/CL671zfz4DEAAAAC/demon-slayer-kimetsu-no-yaiba.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="146159-inosuke-hashibira"] .image-cutter::before {
+    content: "На ПРОЛООООМ!!!!";
+}
+.p-profiles .cc-favourites .c-character a[href*="146159-inosuke-hashibira"] .image-decor::before {
+    content: "Иносукэ Хасибира";
+}
+
+/* Edvard Elric (Fullmetal Alchemist) */
+img[src*="/characters/11/"] {
+  content: url("https://media.tenor.com/Lmdi03UbK80AAAAd/fullmetal-alchemist-edward-elric.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="11-edward-elric"] .image-cutter::before {
+    content: "Да не КОРОТЫШКА Я!!!";
+}
+.p-profiles .cc-favourites .c-character a[href*="11-edward-elric"] .image-decor::before {
+    content: "Эдвард Элрик";
+}
+
+/* Spike Spiegel (Cowboy BeBop) */
+img[src*="/characters/1/"] {
+  content: url("https://media.tenor.com/RF9EdpqI_qIAAAAC/see-you-space-cowboy-cowboy-bebop.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="1-spike-spiegel"] .image-cutter::before {
+    content: "SEE YOU SPACE COWBOY...";
+}
+.p-profiles .cc-favourites .c-character a[href*="1-spike-spiegel"] .image-decor::before {
+    content: "Спайк Шпигель";
+}
+
+/* Reze (Chainsaw-Man) */
+img[src*="/characters/174751/"] {
+  content: url("https://i.pinimg.com/originals/d0/4a/dd/d04add471fe7693538b6790538fd59bc.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="174751-reze"] .image-cutter::before {
+    content: "Взрывная девушка";
+}
+.p-profiles .cc-favourites .c-character a[href*="174751-reze"] .image-decor::before {
+    content: "Резе";
+}
+
+/* Tatsumaki (One Punch Man) */
+img[src*="/characters/81929/"] {
+  content: url("https://media.tenor.com/jAzemCyAL4AAAAAC/tatsumaki.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="81929-tatsumaki"] .image-cutter::before {
+    content: "Тупа мини малыха уфф";
+}
+.p-profiles .cc-favourites .c-character a[href*="81929-tatsumaki"] .image-decor::before {
+    content: "Тацумаки";
+}
+
+/* Violet Evergarden */
+img[src*="/characters/141354/"] {
+  content: url("https://media.tenor.com/TZ89Av8QBVkAAAAC/violet-evergarden-violet.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="141354-violet-evergarden"] .image-cutter::before {
+    content: "ТВОИ ГЛАЗААА";
+}
+.p-profiles .cc-favourites .c-character a[href*="141354-violet-evergarden"] .image-decor::before {
+    content: "Вайолет Эвергарден";
+}
+
+/* Rei Ayanami (Evangelion) */
+img[src*="/characters/86/"] {
+  content: url("https://media.tenor.com/UzThu7ooVT8AAAAC/rei-rei-ayanami.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="86-rei-ayanami"] .image-cutter::before {
+    content: "Синеволосый Гомункул";
+}
+.p-profiles .cc-favourites .c-character a[href*="86-rei-ayanami"] .image-decor::before {
+    content: "Рей Аянами";
+}
+
+/* Eto Yoshimura (Tokyo Ghoul) */
+img[src*="/characters/130287/"] {
+  content: url("https://media.tenor.com/Gfj_RG9EJ5EAAAAC/eto-eto-yoshimura.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="130287-sen-takatsuki"] .image-cutter::before {
+    content: "Первый краш";
+}
+.p-profiles .cc-favourites .c-character a[href*="130287-sen-takatsuki"] .image-decor::before {
+    content: "Это Йошимура";
+}
+
+/* Lucy (Cyberpunk) */
+img[src*="/characters/213159/"] {
+  content: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY5MzBiODdlOTVkNWNlOWU5M2E4MDQ3MjI4M2U5OTlkY2Q1ODRhMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4Z3lfPky1pLr0eSzTH/giphy.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="213159-lucyna-kushinada"] .image-cutter::before {
+    content: "Will you fly to moon with me?";
+}
+.p-profiles .cc-favourites .c-character a[href*="213159-lucyna-kushinada"] .image-decor::before {
+    content: "Люсина Кусинада";
+}
+
+/* Eren Jaeger */
+img[src*="/characters/40882/"] {
+  content: url("https://i.pinimg.com/originals/79/49/39/794939943f30c85621324c6a0382c8d5.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="40882-eren-yeager"] .image-cutter::before {
+    content: "Борис(ь) Йегер";
+}
+.p-profiles .cc-favourites .c-character a[href*="40882-eren-yeager"] .image-decor::before {
+    content: "Эрен Йегер";
+}
+
+/* Levi */
+img[src*="/characters/45627/"] {
+  content: url("https://i.pinimg.com/originals/27/cd/fe/27cdfeeb9661a5b7d426ed6ed4e1f209.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="45627-levi"] .image-cutter::before {
+    content: "Мойте полы";
+}
+.p-profiles .cc-favourites .c-character a[href*="45627-levi"] .image-decor::before {
+    content: "Леви";
+}
+
+/* Aoi Todo (Jujustu Kaisen) */
+img[src*="/characters/164484/"] {
+  content: url("https://media.tenor.com/fci-2oVglJEAAAAd/jjk-jujutsu-kaisen.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="164484-aoi-toudou"] .image-cutter::before {
+    content: "Настоящий ДРУГ";
+}
+.p-profiles .cc-favourites .c-character a[href*="164484-aoi-toudou"] .image-decor::before {
+    content: "Аой Тодо";
+}
+
+/* Satoru Gojo (Jujustu Kaisen) */
+img[src*="/characters/164471/"] {
+  content: url("https://media.tenor.com/KrKcRms3oiYAAAAM/gojo-gojo-satoru.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="164471-satoru-gojou"] .image-cutter::before {
+    content: "Choosen One";
+}
+.p-profiles .cc-favourites .c-character a[href*="164471-satoru-gojou"] .image-decor::before {
+    content: "Сатору Годзё";
+}
+
+/* Kaito (Hunter X Hunter) */
+img[src*="/characters/20594/"] {
+  content: url("https://media.tenor.com/eGRbXsqjdMoAAAAC/kite-hxh.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="20594-kite"] .image-cutter::before {
+    content: "Не повезло";
+}
+.p-profiles .cc-favourites .c-character a[href*="20594-kite"] .image-decor::before {
+    content: "Кайт";
+}
+
+/* Saitama (One Punch Man) */
+img[src*="/characters/73935/"] {
+  content: url("https://media.tenor.com/2CuXW_337kEAAAAC/saitama-bloodlust.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="73935-saitama"] .image-cutter::before {
+    content: "100 отжиманий, 100 приседаний, 100 пресса, 10км пробежка - 3 раза в день";
+}
+.p-profiles .cc-favourites .c-character a[href*="73935-saitama"] .image-decor::before {
+    content: "Сайтама";
+}
+
+/* Garo (One Punch Man) */
+img[src*="/characters/112889/"] {
+  content: url("https://media.tenor.com/XQQhCjT70VQAAAAd/cosmic-garou.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="112889-garou"] .image-cutter::before {
+    content: "Монстр";
+}
+.p-profiles .cc-favourites .c-character a[href*="112889-garou"] .image-decor::before {
+    content: "Гаро";
+}
+
+/* Vagabond */
+img[src*="/characters/6194/"] {
+  content: url("https://media.tenor.com/vapdwHzWOkIAAAAd/musashi-musashi-miyamoto.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="6194-musashi-miyamoto"] .image-cutter::before {
+    content: "Бродяга";
+}
+.p-profiles .cc-favourites .c-character a[href*="6194-musashi-miyamoto"] .image-decor::before {
+    content: "Мусаси Миямото";
+}
+
+/* Torfinn (Vinland Saga) */
+img[src*="/characters/10138/"] {
+  content: url("https://media.tenor.com/rrl27y1g444AAAAC/anime-vinland-saga.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="10138-thorfinn"] .image-cutter::before {
+    content: "You have no enemies. No one have";
+}
+.p-profiles .cc-favourites .c-character a[href*="10138-thorfinn"] .image-decor::before {
+    content: "Торфинн ";
+}
+
+/* Onidzuka (GTO) */
+img[src*="/characters/434/"] {
+  content: url("https://media.tenor.com/eVsXp2g3pi0AAAAC/onizuka-anime.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="434-eikichi-onizuka"] .image-cutter::before {
+    content: "GOAT 🐐";
+}
+.p-profiles .cc-favourites .c-character a[href*="434-eikichi-onizuka"] .image-decor::before {
+    content: "Эйкити Онидзука";
+}
+
+/* Howl (Howl no Ugoku Shiro) */
+img[src*="/characters/507/"] {
+  content: url("https://media.tenor.com/LE-wDCvOiIoAAAAC/howls-moving-castle.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="507-howl"] .image-cutter::before {
+    content: "Тупа Варона";
+}
+.p-profiles .cc-favourites .c-character a[href*="507-howl"] .image-decor::before {
+    content: "Хаул";
+}
+
+/* Mori Buntaro (Climber) */
+img[src*="/characters/35510/"] {
+  content: url("https://i.pinimg.com/originals/3b/0c/c4/3b0cc44c8747ef4144980734d142ad3f.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="35510-buntarou-mori"] .image-cutter::before {
+    content: "IMMORTAL CLIMBER";
+}
+.p-profiles .cc-favourites .c-character a[href*="35510-buntarou-mori"] .image-decor::before {
+    content: "Бунтаро Мори";
+}
+
+/* Yoriichi (Demon Slayer) */
+img[src*="/characters/174159/"] {
+  content: url("https://media.tenor.com/C_p7CX7qjWcAAAAC/yoriichi-demon-slayer.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="174159-yoriichi-tsugikuni"] .image-cutter::before {
+    content: "Бедолага";
+}
+.p-profiles .cc-favourites .c-character a[href*="174159-yoriichi-tsugikuni"] .image-decor::before {
+    content: "Ёриити Цугикуни";
+}
+
+/* Rengoku (Demon Slayer) */
+img[src*="/characters/151143/"] {
+  content: url("https://media.tenor.com/Bkx9SOHtp3wAAAAd/kyojuro.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="151143-kyoujurou-rengoku"] .image-cutter::before {
+    content: "Разожги в сердце пламя.";
+}
+.p-profiles .cc-favourites .c-character a[href*="151143-kyoujurou-rengoku"] .image-decor::before {
+    content: "Кёдзюро Рэнгоку";
+}
+
+/* Renji Yomo (Tokyo Ghoul) */
+img[src*="/characters/103411/"] {
+  content: url("https://i.pinimg.com/originals/9e/7d/07/9e7d075a1496d12f8adb4352f4dddded.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="103411-renji-yomo"] .image-cutter::before {
+    content: "Отец";
+}
+.p-profiles .cc-favourites .c-character a[href*="103411-renji-yomo"] .image-decor::before {
+    content: "Рэнджи Йомо";
+}
+
+/* Juuzou Suzuya (Tokyo Ghoul) */
+img[src*="/characters/104437/"] {
+  content: url("https://media.tenor.com/Nblhv1HmoCkAAAAC/juuzou-suzuya-tokyo-ghoul.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="104437-juuzou-suzuya"] .image-cutter::before {
+    content: "Дезолятор";
+}
+.p-profiles .cc-favourites .c-character a[href*="104437-juuzou-suzuya"] .image-decor::before {
+    content: "Джузо Сузуя";
+}
+
+/* Rintaro Okabe (Steins Gate) */
+img[src*="/characters/35252/"] {
+  content: url("https://media.tenor.com/mCUkEFYnjQsAAAAC/hououin-kyouma-okabe-rintarou.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="35252-rintarou-okabe"] .image-cutter::before {
+    content: "Безумный ученый";
+}
+.p-profiles .cc-favourites .c-character a[href*="35252-rintarou-okabe"] .image-decor::before {
+    content: "Ринтаро Окабэ";
+}
+
+/* Shinei Nouzen (86) */
+img[src*="/characters/150823/"] {
+  content: url("https://media.tenor.com/0Soa3WLqVf4AAAAC/shinei-nouzen-zacxion.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="150823-shinei-nouzen"] .image-cutter::before {
+    content: "Жнец прибыл";
+}
+.p-profiles .cc-favourites .c-character a[href*="150823-shinei-nouzen"] .image-decor::before {
+    content: "Синъэй Нодзэн";
+}
+
+/* Koro-sensei */
+img[src*="/characters/65643/"] {
+  content: url("https://media.tenor.com/K8HXY_nKK2wAAAAC/korosensi-gif.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="65643-koro-sensei"] .image-cutter::before {
+    content: "Учитель столетия";
+}
+.p-profiles .cc-favourites .c-character a[href*="65643-koro-sensei"] .image-decor::before {
+    content: "Коро-сэнсэй";
+}
+
+/* Shinya Kougami (Psycho-Pass) */
+img[src*="/characters/68315/"] {
+  content: url("https://media.tenor.com/Yuqcn0sUefcAAAAC/aesthetic-anime.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="68315-shinya-kougami"] .image-cutter::before {
+    content: "Свинья Кагами";
+}
+.p-profiles .cc-favourites .c-character a[href*="68315-shinya-kougami"] .image-decor::before {
+    content: "Синъя Когами";
+}
+
+/* Taiga Kagami */
+img[src*="/characters/18770/"] {
+  content: url("https://media.tenor.com/-4FX4MYKEzIAAAAC/kagami.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="18770-taiga-kagami"] .image-cutter::before {
+    content: "МЕТЕОРИТНЫЙ ДАААААНК";
+}
+.p-profiles .cc-favourites .c-character a[href*="18770-taiga-kagami"] .image-decor::before {
+    content: "Тайга Кагами";
+}
+
+/* Nagisa Shiota */
+img[src*="/characters/65645/"] {
+  content: url("https://media.tenor.com/YBexvsaYkZYAAAAC/thank-you.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="65645-nagisa-shiota"] .image-cutter::before {
+    content: '"Я стану учителем!"';
+}
+.p-profiles .cc-favourites .c-character a[href*="65645-nagisa-shiota"] .image-decor::before {
+    content: "Нагиса Сиота";
+}
+
+/* Hanamichi Sakuragi */
+img[src*="/characters/310/"] {
+  content: url("https://i.pinimg.com/originals/59/7a/8d/597a8d1c75fb9e1b8434bda1142b3954.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="310-hanamichi-sakuragi"] .image-cutter::before {
+    content: "ГЕНИЙ";
+}
+.p-profiles .cc-favourites .c-character a[href*="310-hanamichi-sakuragi"] .image-decor::before {
+    content: "Ханамичи Сакураги";
+}
+
+/*  
+img[src*="/characters/0/"] {
+  content: url("");
+}
+.p-profiles .cc-favourites .c-character a[href*=""] .image-cutter::before {
+    content: "";
+}
+.p-profiles .cc-favourites .c-character a[href*=""] .image-decor::before {
+    content: "";
+}
+*/
+
