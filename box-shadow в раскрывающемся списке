@@ -1,0 +1,27 @@
+/*box-shadow в раскрывающемся списке*/
+/*право низ размытие*/
+/* ---------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*Запланировано*/
+.b-add_to_list.planned.expanded .trigger, .b-add_to_list.planned .trigger, .b-add_to_list.planned.expanded .expanded-options, .b-add_to_list.planned .expanded-options {
+  box-shadow: 0 0 5px royalblue, 0 0 10px royalblue, 0 0 15px royalblue, 0 0 20px royalblue !important;
+}
+/*Просмотрено*/
+.b-add_to_list.completed.expanded .trigger, .b-add_to_list.completed .trigger, .b-add_to_list.completed.expanded .expanded-options, .b-add_to_list.completed .expanded-options {
+  box-shadow: 0 0 5px green, 0 0 10px green, 0 0 15px green, 0 0 20px green !important;
+}
+/*Брошено*/
+.b-add_to_list.dropped.expanded .trigger, .b-add_to_list.dropped .trigger, .b-add_to_list.dropped.expanded .expanded-options, .b-add_to_list.dropped .expanded-options {
+  box-shadow: 0 0 5px firebrick, 0 0 10px firebrick, 0 0 15px firebrick, 0 0 20px firebrick !important;
+}
+/*Отложено*/
+.b-add_to_list.on_hold.expanded .trigger, .b-add_to_list.on_hold .trigger, .b-add_to_list.on_hold.expanded .expanded-options, .b-add_to_list.on_hold .expanded-options   {
+  box-shadow: 0 0 5px chocolate, 0 0 10px chocolate, 0 0 15px chocolate, 0 0 20px chocolate !important;
+}
+/*Смотрю*/
+.b-add_to_list.watching.expanded .trigger, .b-add_to_list.watching .trigger, .b-add_to_list.watching.expanded .expanded-options, .b-add_to_list.watching .expanded-options {
+  box-shadow: 0 0 5px darkslateblue, 0 0 10px darkslateblue, 0 0 15px darkslateblue, 0 0 20px darkslateblue !important;
+}
+/*При наведении мыши на друзей и клубы*/
+.b-user.avatar img:hover, .b-club .logo:hover {
+	box-shadow: 0 0 5px #dd5202, 0 0 10px #dd5202, 0 0 15px #dd5202, 0 0 20px #dd5202 !important;
+}
