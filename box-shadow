@@ -1,6 +1,9 @@
 /*box-shadow в раскрывающемся списке*/
 /*право низ размытие*/
 /* ------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.b-add_to_list{
+  box-shadow: 0 0 5px royalblue, 0 0 10px royalblue, 0 0 15px royalblue, 0 0 20px royalblue !important;
+}
 /*Запланировано*/
 .b-add_to_list.planned.expanded .trigger, .b-add_to_list.planned .trigger, .b-add_to_list.planned.expanded .expanded-options, .b-add_to_list.planned .expanded-options {
   box-shadow: 0 0 5px royalblue, 0 0 10px royalblue, 0 0 15px royalblue, 0 0 20px royalblue !important;
