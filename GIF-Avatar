@@ -1,0 +1,92 @@
+/*GIf-Avatar*/
+/* -------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+#profiles_show .profile-head .c-brief .avatar img {
+    visibility: hidden;
+}
+#profiles_show .profile-head .c-brief .avatar::after {
+    position: absolute;
+    display: block;
+    content: "";
+    height: 110px;
+    width: 110px;
+    top: 4rem;
+    margin-left: 1.5rem;
+    border-radius: 50%;
+    background-image: url("https://media.tenor.com/1le1ws6IiGAAAAAC/sad-smoke.gif");
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.2);
+}
+
+@media screen and (min-width: 768px) {
+    #profiles_show .profile-head .c-brief .avatar::after {
+        top: 5rem;
+        width: 160px;
+        height: 160px;
+        left: 0.95rem;
+        right: auto;
+        bottom: auto;
+        margin: 0;
+    }
+}
+@media screen and (min-width: 1024px) {
+    #profiles_show .profile-head .c-brief .avatar::after {
+        top: 1.45rem;
+    }
+}
+@media screen and (min-width: 1200px) {
+    #profiles_show .profile-head .c-brief .avatar::after {
+        top: auto;
+        right: 0;
+        bottom: 11.78rem;
+        left: 0;
+        width: 180px;
+        height: 180px;
+        margin: auto;
+    }
+}
+@media screen and (min-width: 1290px) {
+    #profiles_show .profile-head .c-brief .avatar::after {
+        top: auto;
+        right: 0;
+        bottom: 12.84rem;
+        left: 0;
+        width: 180px;
+        height: 180px;
+        margin: auto;
+    }
+}
+@media screen and (min-width: 1291px) {
+    #profiles_show .profile-head .c-brief .avatar::after {
+        top: auto;
+        right: 0;
+        bottom: 8.55rem;
+        left: 0;
+        width: 160px;
+        height: 160px;
+        margin: auto;
+    }
+}
+@media screen and (min-width: 1530px) {
+    #profiles_show .profile-head .c-brief .avatar::after {
+        top: auto;
+        right: 0;
+        bottom: 10.15rem;
+        left: 0;
+        width: 165px;
+        height: 165px;
+        margin: auto;
+    }
+}
+@media screen and (min-width: 1830px) {
+    #profiles_show .profile-head .c-brief .avatar::after {
+        top: auto;
+        right: 0;
+        bottom: 13.35rem;
+        left: 0;
+        width: 180px;
+        height: 180px;
+        margin: auto;
+    }
+}
