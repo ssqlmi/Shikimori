@@ -1,0 +1,111 @@
+/*Замена постеров*/
+/*Внутри профиля! Франшизы*/
+   #profiles_show .cc-franchises .b-badge::after {
+      content: "";
+      position: absolute;
+      left: 2px;
+      top: 2px;
+      background-size: cover;
+      pointer-events: auto;
+      box-shadow: none !important;
+      width: calc(107% - 4px);
+      height: calc(76% - 4px);
+      pointer-events: none;
+      border-radius: 0.5rem;
+   }
+   #profiles_show .cc-franchises .b-badge::before {
+      content: "";
+      position: absolute;
+      height: 76%;
+      width: 107%;
+      left: 0;
+      top: 0;
+      border-radius: 0.5rem;
+      transition: 0s ease-out, box-shadow 0.2s ease-out, transform 0.2s ease-out;
+      pointer-events: auto;
+      opacity: 1;
+      font-size: 0;
+      background: none;
+      visibility: visible !important;
+   }
+   #profiles_show a.b-badge:hover::before {
+      box-shadow: none;
+      background: none;
+   }
+
+/*Скрываем родные постеры*/
+   #profiles_show .cc-franchises .b-badge[href$="/shingeki_no_kyojin"] img,
+   #profiles_show .cc-franchises .b-badge[href$="/tokyo_ghoul"] img,
+   #profiles_show .cc-franchises .b-badge[href$="/demon_slayer"] img,
+   #profiles_show .cc-franchises .b-badge[href$="/mob_psycho"] img,
+   #profiles_show .cc-franchises .b-badge[href$="/ansatsu_kyoushitsu"] img,
+   #profiles_show .cc-franchises .b-badge[href$="/kaguya_sama"] img,
+   #profiles_show .cc-franchises .b-badge[href$="/kuroko_no_basket"] img,
+   #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"] img,
+   #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"] img,
+/* #profiles_show .cc-franchises .b-badge[href$="/"] img, */
+   #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"] img { 
+      visibility: hidden; 
+   }
+   #profiles_show .cc-franchises .b-badge[href$="/tokyo_ghoul"]::before,
+   #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"]::before,
+   #profiles_show .cc-franchises .b-badge[href$="/demon_slayer"]::before,
+   #profiles_show .cc-franchises .b-badge[href$="/mob_psycho"]::before,
+   #profiles_show .cc-franchises .b-badge[href$="/ansatsu_kyoushitsu"]::before,
+   #profiles_show .cc-franchises .b-badge[href$="/kaguya_sama"]::before,
+   #profiles_show .cc-franchises .b-badge[href$="/kuroko_no_basket"]::before,
+   #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"]::before,
+   #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"]::before,
+/* #profiles_show .cc-franchises .b-badge[href$="/"]::before, */
+   #profiles_show .cc-franchises .b-badge[href$="/shingeki_no_kyojin"]::before {
+      box-shadow: 0 0 0 2px rgba(var(--block-color), 0.6);
+   }
+   #profiles_show .cc-franchises .b-badge[href$="/shingeki_no_kyojin"]:hover::before,
+   #profiles_show .cc-franchises .b-badge[href$="/tokyo_ghoul"]:hover::before,
+   #profiles_show .cc-franchises .b-badge[href$="/demon_slayer"]:hover::before,
+   #profiles_show .cc-franchises .b-badge[href$="/mob_psycho"]:hover::before,
+   #profiles_show .cc-franchises .b-badge[href$="/ansatsu_kyoushitsu"]:hover::before,
+   #profiles_show .cc-franchises .b-badge[href$="/kaguya_sama"]:hover::before,
+   #profiles_show .cc-franchises .b-badge[href$="/kuroko_no_basket"]:hover::before,
+   #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"]:hover::before,
+   #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"]:hover::before,
+/* #profiles_show .cc-franchises .b-badge[href$="/"]:hover::before, */
+   #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"]:hover::before {
+      box-shadow: -20px 20px 0 -17px rgb(62 62 62 / 85%),
+         20px -20px 0 -17px #383838, 20px 20px 0 -20px rgb(0 0 0 / 80%),
+         0 0 0 2px rgb(0 0 0 / 80%);
+   }
+/* Ставим новые постеры - Франшизы */
+   #profiles_show .cc-franchises .b-badge[href$="/shingeki_no_kyojin"]::after {
+      background-image: url("https://media.tenor.com/vxuKgx3smEcAAAAC/titan-attack-on-titans.gif");
+   }
+   #profiles_show .cc-franchises .b-badge[href$="/tokyo_ghoul"]::after {
+      background-image: url("https://nyaa.shikimori.one/system/images/original/110645.gif?1606727813");
+   }
+   #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"]::after {
+      background-image: url("https://desu.shikimori.one/system/images/original/115108.gif?1621322178");
+   }
+   #profiles_show .cc-franchises .b-badge[href$="/demon_slayer"]::after {
+      background-image: url("https://media.tenor.com/jvbPYIiSRr4AAAAC/rengoku-kyojuro.gif");
+   }
+   #profiles_show .cc-franchises .b-badge[href$="/mob_psycho"]::after {
+      background-image: url("https://media.tenor.com/TY55ceO0B3MAAAAd/reigen-mob-psycho100.gif");
+   }
+   #profiles_show .cc-franchises .b-badge[href$="/ansatsu_kyoushitsu"]::after {
+      background-image: url("https://media.tenor.com/mIYdjGufdioAAAAC/assassination-classroom.gif");
+   }
+   #profiles_show .cc-franchises .b-badge[href$="/kaguya_sama"]::after {
+      background-image: url("https://media.tenor.com/nkVaxlCatJgAAAAd/chika-dance.gif");
+   }
+   #profiles_show .cc-franchises .b-badge[href$="/kuroko_no_basket"]::after {
+      background-image: url("https://media.tenor.com/fJYEXV_jyxQAAAAC/kuroko-no-basuke-anime.gif");
+   }
+   #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"]::after {
+      background-image: url("https://media.tenor.com/VO6YDna89-UAAAAC/makishima-makishima-shogo.gif");
+   }
+   #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"]::after {
+      background-image: url("https://media.tenor.com/rHy6sEVvq2YAAAAC/revy-black-lagoon.gif");
+   }
+/* #profiles_show .cc-franchises .b-badge[href$="/"]::after {
+      background-image: url(""); 
+   }*/
