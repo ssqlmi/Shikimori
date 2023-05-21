@@ -1,0 +1,26 @@
+/*Страница achievements-Франшизы*/
+.p-achievements-index.p-achievements .b-badge,
+.p-achievements-franchise.p-achievements .b-badge { 
+   border-radius: 9px;
+}
+.p-achievements-index .b-badge,
+.p-achievements-franchise .b-badge {  
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+
+.p-achievements-index .b-badge[href$="/shingeki_no_kyojin"] img,
+.p-achievements-franchise .b-badge[href$="/shingeki_no_kyojin"] img,
+.p-achievements-index .b-badge[href$="/tokyo_ghoul"] img,
+.p-achievements-franchise .b-badge[href$="/tokyo_ghoul"] img {
+   visibility: hidden;
+}
+.p-achievements-index .b-badge[href$="/shingeki_no_kyojin"],
+.p-achievements-franchise .b-badge[href$="/shingeki_no_kyojin"] {
+   background-image: url("https://media.tenor.com/vxuKgx3smEcAAAAC/titan-attack-on-titans.gif");
+}
+.p-achievements-index .b-badge[href$="/tokyo_ghoul"],
+.p-achievements-franchise .b-badge[href$="/tokyo_ghoul"] {
+   background-image: url("https://media.tenor.com/pKkf9quQH-MAAAAC/tokyo-ghoul-power.gif");
+}
