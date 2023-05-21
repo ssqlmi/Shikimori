@@ -100,10 +100,12 @@
       width: 97%;
   }
 }
+
 /*Пустота между строками франшиз*/
 #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge {
   margin-bottom: -11%;
 }
+
 /*Общее и Жанровые делаю на всю ширину*/
 #profiles_show .achievements .cc-2 > .c-column:nth-child(1), #profiles_show .achievements .cc-2 > .c-column:nth-child(2) {
   width: 100%;
@@ -111,6 +113,7 @@
 #profiles_show.p-profiles-show .achievements .cc-achievements .b-badge {
   width: 100%;
 }
+
 /*Настраиваем Общие и Жанровые достижения*/
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   #profiles_show .achievements .c-column:nth-child(1) .cc-achievements .b-achievement, #profiles_show .achievements .c-column:nth-child(2) .cc-achievements .b-achievement {
@@ -132,4 +135,27 @@
   #profiles_show .achievements .cc-achievements .b-achievement:nth-child(3) {
     display: none;
   }
+}
+
+/*Общие. Жанровые. Авторы.*/
+.p-profiles.p-achievements .b-achievement > .c-image > .inner:after {
+   max-width: 105%;
+   width: 104%;
+   height: 106%;
+   margin-left: -2%;
+   border-radius: 11px;
+}
+.p-profiles .b-achievement > .c-image > .inner:after {
+   position: absolute;
+   display: block;
+   content: "";
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+   visibility: visible !important;
+   z-index: auto;
 }
