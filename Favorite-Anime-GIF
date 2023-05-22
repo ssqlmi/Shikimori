@@ -89,7 +89,7 @@
     visibility: hidden;
 }
 .p-profiles .cc-favourites .c-anime a[href*="z5114-fullmetal-alchemist-brotherhood"] .image-cutter {
-    background: url("https://media.tenor.com/lxpfB01kWpcAAAAC/bromance-sig-curtis.gif") no-repeat center / cover;
+    background: url("https://i.gifer.com/LuTZ.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="z5114-fullmetal-alchemist-brotherhood"] .image-decor::before {
     content: "Брат за брата 🤝";
