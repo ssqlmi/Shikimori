@@ -110,9 +110,7 @@
       background-image: url(""); 
    }*/
    
-   
-   
-   /*Картинка скоро*/
+/*Картинка скоро*/
   #profiles_show .cc-franchises .b-badge::after {
     background-image: url("https://sun9-5.userapi.com/impg/ZGoZ3FGHL5-lYzMf3wFijHQIy2QHaT2fUMUfZA/K8gIb1rLqrc.jpg?size=1280x720&quality=96&sign=19ec4684493fd54b07729c68efd7ea87&c_uniq_tag=UKW5eFNhGxFOu1yeenUL3chtoMPhhAcaGKy3Bj_8CNA&type=album");
   }
