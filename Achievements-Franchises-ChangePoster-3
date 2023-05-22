@@ -43,7 +43,7 @@
    #profiles_show .cc-franchises .b-badge[href$="/kuroko_no_basket"] img,
    #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"] img,
    #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"] img,
-/* #profiles_show .cc-franchises .b-badge[href$="/"] img, */
+   #profiles_show .cc-franchises .b-badge[href$="/slam_dunk"] img, 
    #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"] img { 
       visibility: hidden; 
    }
@@ -56,7 +56,7 @@
    #profiles_show .cc-franchises .b-badge[href$="/kuroko_no_basket"]::before,
    #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"]::before,
    #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"]::before,
-/* #profiles_show .cc-franchises .b-badge[href$="/"]::before, */
+   #profiles_show .cc-franchises .b-badge[href$="/slam_dunk"]::before, 
    #profiles_show .cc-franchises .b-badge[href$="/shingeki_no_kyojin"]::before {
       box-shadow: 0 0 0 2px rgba(var(--block-color), 0.6);
    }
@@ -69,7 +69,7 @@
    #profiles_show .cc-franchises .b-badge[href$="/kuroko_no_basket"]:hover::before,
    #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"]:hover::before,
    #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"]:hover::before,
-/* #profiles_show .cc-franchises .b-badge[href$="/"]:hover::before, */
+   #profiles_show .cc-franchises .b-badge[href$="/slam_dunk"]:hover::before, 
    #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"]:hover::before {
       box-shadow: -20px 20px 0 -17px rgb(62 62 62 / 85%),
          20px -20px 0 -17px #383838, 20px 20px 0 -20px rgb(0 0 0 / 80%),
@@ -106,9 +106,9 @@
    #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"]::after {
       background-image: url("https://media.tenor.com/rHy6sEVvq2YAAAAC/revy-black-lagoon.gif");
    }
-/* #profiles_show .cc-franchises .b-badge[href$="/"]::after {
-      background-image: url(""); 
-   }*/
+   #profiles_show .cc-franchises .b-badge[href$="/slam_dunk"]::after {
+      background-image: url("https://i.pinimg.com/originals/83/16/4f/83164fb6e5bcc8bb8135459424cae148.gif"); 
+   }
    
 /*Картинка скоро*/
   #profiles_show .cc-franchises .b-badge::after {
