@@ -1,4 +1,5 @@
-/*Страница achievements-Франшизы*/
+/* Страница achievements-Франшизы */
+/* ------------------------------------------------------------------------------------------------------------------------ */
 .p-achievements-index.p-achievements .b-badge,
 .p-achievements-franchise.p-achievements .b-badge { 
    border-radius: 9px;
@@ -10,17 +11,89 @@
    background-size: cover;
 }
 
+/* Скрытые старых изображений */
+/* Атака титанов */
 .p-achievements-index .b-badge[href$="/shingeki_no_kyojin"] img,
 .p-achievements-franchise .b-badge[href$="/shingeki_no_kyojin"] img,
+/* Ванпанчмен */
+.p-achievements-index .b-badge[href$="/one_punch_man"] img,
+.p-achievements-franchise .b-badge[href$="/one_punch_man"] img,
+/* Клинок, рассекающий демонов */
+.p-achievements-index .b-badge[href$="/demon_slayer"] img,
+.p-achievements-franchise .b-badge[href$="/demon_slayer"] img,
+/* Моб Психо 100 */
+.p-achievements-index .b-badge[href$="/mob_psycho"] img,
+.p-achievements-franchise .b-badge[href$="/mob_psycho"] img,
+/* Класс Убийц */
+.p-achievements-index .b-badge[href$="/ansatsu_kyoushitsu"] img,
+.p-achievements-franchise .b-badge[href$="/ansatsu_kyoushitsu"] img,
+/* Кагуя */
+.p-achievements-index .b-badge[href$="/kaguya_sama"] img,
+.p-achievements-franchise .b-badge[href$="/kaguya_sama"] img,
+/* Баскетбол Куроко */
+.p-achievements-index .b-badge[href$="/kuroko_no_basket"] img,
+.p-achievements-franchise .b-badge[href$="/kuroko_no_basket"] img,
+/* Псизопаспорт */
+.p-achievements-index .b-badge[href$="/psycho_pass"] img,
+.p-achievements-franchise .b-badge[href$="/psycho_pass"] img,
+/* Пираты Черной Лагуны */
+.p-achievements-index .b-badge[href$="/black_lagoon"] img,
+.p-achievements-franchise .b-badge[href$="/black_lagoon"] img,
+/* Токийский гуль */
 .p-achievements-index .b-badge[href$="/tokyo_ghoul"] img,
 .p-achievements-franchise .b-badge[href$="/tokyo_ghoul"] img {
    visibility: hidden;
 }
+
+/* Вставка новых изображений */
+/* Атака титанов */
 .p-achievements-index .b-badge[href$="/shingeki_no_kyojin"],
 .p-achievements-franchise .b-badge[href$="/shingeki_no_kyojin"] {
    background-image: url("https://media.tenor.com/vxuKgx3smEcAAAAC/titan-attack-on-titans.gif");
 }
+/* Токийский гуль */
 .p-achievements-index .b-badge[href$="/tokyo_ghoul"],
 .p-achievements-franchise .b-badge[href$="/tokyo_ghoul"] {
    background-image: url("https://media.tenor.com/pKkf9quQH-MAAAAC/tokyo-ghoul-power.gif");
 }
+/* Ванпанчмен */
+.p-achievements-index .b-badge[href$="/one_punch_man"],
+.p-achievements-franchise .b-badge[href$="/one_punch_man"] {
+   background-image: url("https://media.tenor.com/YH-LbMCZTrEAAAAd/okay-onepunchman.gif");
+}
+/* Клинок, рассекающий демонов */
+.p-achievements-index .b-badge[href$="/demon_slayer"],
+.p-achievements-franchise .b-badge[href$="/demon_slayer"] {
+   background-image: url("https://media.tenor.com/jvbPYIiSRr4AAAAC/rengoku-kyojuro.gif");
+}
+/* Моб Психо 100 */
+.p-achievements-index .b-badge[href$="/mob_psycho"],
+.p-achievements-franchise .b-badge[href$="/mob_psycho"] {
+   background-image: url("https://media.tenor.com/TY55ceO0B3MAAAAd/reigen-mob-psycho100.gif");
+}
+/* Класс Убийц */
+.p-achievements-index .b-badge[href$="/ansatsu_kyoushitsu"],
+.p-achievements-franchise .b-badge[href$="/ansatsu_kyoushitsu"] {
+   background-image: url("https://media.tenor.com/mIYdjGufdioAAAAC/assassination-classroom.gif");
+}
+/* Кагуя */
+.p-achievements-index .b-badge[href$="/kaguya_sama"],
+.p-achievements-franchise .b-badge[href$="/kaguya_sama"] {
+   background-image: url("https://media.tenor.com/nkVaxlCatJgAAAAd/chika-dance.gif");
+}
+/* Баскетбол Куроко */
+.p-achievements-index .b-badge[href$="/kuroko_no_basket"],
+.p-achievements-franchise .b-badge[href$="/kuroko_no_basket"] {
+   background-image: url("https://media.tenor.com/fJYEXV_jyxQAAAAC/kuroko-no-basuke-anime.gif");
+}
+/* Психопаспорт */
+.p-achievements-index .b-badge[href$="/psycho_pass"],
+.p-achievements-franchise .b-badge[href$="/psycho_pass"] {
+   background-image: url("https://media.tenor.com/VO6YDna89-UAAAAC/makishima-makishima-shogo.gif");
+}
+/* Пираты Черной Лагуны */
+.p-achievements-index .b-badge[href$="/black_lagoon"],
+.p-achievements-franchise .b-badge[href$="/black_lagoon"] {
+   background-image: url("https://media.tenor.com/rHy6sEVvq2YAAAAC/revy-black-lagoon.gif");
+}
+/* ------------------------------------------------------------------------------------------------------------------------ */
