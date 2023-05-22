@@ -39,6 +39,9 @@
 /* Пираты Черной Лагуны */
 .p-achievements-index .b-badge[href$="/black_lagoon"] img,
 .p-achievements-franchise .b-badge[href$="/black_lagoon"] img,
+/* Слэм-данк */
+.p-achievements-index .b-badge[href$="/slam_dunk"] img,
+.p-achievements-franchise .b-badge[href$="/slam_dunk"] img,
 /* Токийский гуль */
 .p-achievements-index .b-badge[href$="/tokyo_ghoul"] img,
 .p-achievements-franchise .b-badge[href$="/tokyo_ghoul"] img {
@@ -95,5 +98,10 @@
 .p-achievements-index .b-badge[href$="/black_lagoon"],
 .p-achievements-franchise .b-badge[href$="/black_lagoon"] {
    background-image: url("https://media.tenor.com/rHy6sEVvq2YAAAAC/revy-black-lagoon.gif");
+}
+/* Слэм-данк */
+.p-achievements-index .b-badge[href$="/slam_dunk"],
+.p-achievements-franchise .b-badge[href$="/slam_dunk"] {
+   background-image: url("https://i.pinimg.com/originals/83/16/4f/83164fb6e5bcc8bb8135459424cae148.gif");
 }
 /* ------------------------------------------------------------------------------------------------------------------------ */
