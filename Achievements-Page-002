@@ -60,6 +60,14 @@
 .p-achievements-index .b-badge[href$="/evangelion"] img,
 .p-achievements-franchise .b-badge[href$="/evangelion"] img,
 
+/* Код Гиас */
+.p-achievements-index .b-badge[href$="/code_geass"] img,
+.p-achievements-franchise .b-badge[href$="/code_geass"] img,
+
+/*   
+.p-achievements-index .b-badge[href$="/"] img,
+.p-achievements-franchise .b-badge[href$="/"] img,*/
+
 /* Токийский гуль */
 .p-achievements-index .b-badge[href$="/tokyo_ghoul"] img,
 .p-achievements-franchise .b-badge[href$="/tokyo_ghoul"] img {
@@ -131,6 +139,11 @@
 .p-achievements-index .b-badge[href$="/evangelion"],
 .p-achievements-franchise .b-badge[href$="/evangelion"] {
    background-image: url("https://i.pinimg.com/originals/0b/39/5e/0b395ec9f6d66c9e4cf9d4a0bd5aa55e.gif");
+}
+/* Код Гиас */
+.p-achievements-index .b-badge[href$="/code_geass"],
+.p-achievements-franchise .b-badge[href$="/code_geass"] {
+   background-image: url("https://media.tenor.com/KQG5JPLWBkQAAAAC/lelouch-vi-britannia-code-geass.gif");
 }
 /*  */
 .p-achievements-index .b-badge[href$="/"],
