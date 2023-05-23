@@ -366,7 +366,7 @@ img[src*="/characters/417/"] {
 
 /* C.C */
 img[src*="/characters/1111/"] {
-  content: url("https://i.gifer.com/origin/15/1548178765cc0a424cd80a58c7db76d1_w200.webp");
+  content: url("https://giffiles.alphacoders.com/144/144040.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="1111-c-c"] .image-cutter::before {
     content: "approved✅";
