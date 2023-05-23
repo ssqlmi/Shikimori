@@ -14,3 +14,31 @@
     content: "Скалолаз ";
 }
 
+/* Shingeki no Kyojin  */
+.p-profiles .cc-favourites .c-manga[class*="b-catalog_entry"] > a[href*="23390-shingeki-no-kyojin"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .c-manga a[href*="23390-shingeki-no-kyojin"] .image-cutter {
+    background: url("https://wallpapercave.com/uwp/uwp2616207.gif") no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-manga a[href*="23390-shingeki-no-kyojin"] .image-decor::before {
+    content: "🤯";
+}
+.p-profiles .cc-favourites .c-manga a[href*="23390-shingeki-no-kyojin"] .image-cutter::before {
+    content: "Shingeki no Kyojin";
+}
+
+/* Chainsaw Man */
+.p-profiles .cc-favourites .c-manga[class*="b-catalog_entry"] > a[href*="116778-chainsaw-man"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .c-manga a[href*="116778-chainsaw-man"] .image-cutter {
+    background: url("https://media.tenor.com/RHVsVPzvszYAAAAd/chainsawman-manga.gif") no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-manga a[href*="116778-chainsaw-man"] .image-decor::before {
+    content: "🪚";
+}
+.p-profiles .cc-favourites .c-manga a[href*="116778-chainsaw-man"] .image-cutter::before {
+    content: "Chainsaw Man";
+}
+
