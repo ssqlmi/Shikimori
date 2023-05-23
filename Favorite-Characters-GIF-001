@@ -353,7 +353,29 @@ img[src*="/characters/310/"] {
     content: "Ханамичи Сакураги";
 }
 
-/*  
+/* Лелуш Ламперуж */
+img[src*="/characters/417/"] {
+  content: url("https://giffiles.alphacoders.com/345/34556.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="417-lelouch-lamperouge"] .image-cutter::before {
+    content: "Cтрелять может только тот, кто сам готов быть убит";
+}
+.p-profiles .cc-favourites .c-character a[href*="417-lelouch-lamperouge"] .image-decor::before {
+    content: "Лелуш Ламперуж";
+}
+
+/* C.C */
+img[src*="/characters/1111/"] {
+  content: url("https://i.gifer.com/origin/15/1548178765cc0a424cd80a58c7db76d1_w200.webp");
+}
+.p-profiles .cc-favourites .c-character a[href*="1111-c-c"] .image-cutter::before {
+    content: "approved✅";
+}
+.p-profiles .cc-favourites .c-character a[href*="1111-c-c"] .image-decor::before {
+    content: "C.C";
+}
+
+/*  */
 img[src*="/characters/0/"] {
   content: url("");
 }
@@ -363,5 +385,5 @@ img[src*="/characters/0/"] {
 .p-profiles .cc-favourites .c-character a[href*=""] .image-decor::before {
     content: "";
 }
-*/
+
 
