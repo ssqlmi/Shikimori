@@ -252,7 +252,7 @@
     content: "Песнь ночных сов";
 }
 
-/* Песнь ночных сов */
+/* Клинок, рассекающий демонов */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="z38000-kimetsu-no-yaiba"] img {
     visibility: hidden;
 }
@@ -264,4 +264,18 @@
 }
 .p-profiles .cc-favourites .c-anime a[href*="z38000-kimetsu-no-yaiba"] .image-cutter::before {
     content: "Клинок, рассекающий демонов";
+}
+
+/* Код Гиас */
+.p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="2904-code-geass-hangyaku-no-lelouch-r2"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .c-anime a[href*="2904-code-geass-hangyaku-no-lelouch-r2"] .image-cutter {
+    background: url("https://thumbs.gfycat.com/AdmirableVagueBoto-size_restricted.gif") no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-anime a[href*="2904-code-geass-hangyaku-no-lelouch-r2"] .image-decor::before {
+    content: "🎭";
+}
+.p-profiles .cc-favourites .c-anime a[href*="2904-code-geass-hangyaku-no-lelouch-r2"] .image-cutter::before {
+    content: "Код Гиас";
 }
