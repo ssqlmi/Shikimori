@@ -1,0 +1,16 @@
+/* Favorite - Manga - GIF */
+/* ----------------------------------------------------------------------------------------------------------------------------------------------- */
+/* Скалолаз  */
+.p-profiles .cc-favourites .c-manga[class*="b-catalog_entry"] > a[href*="7375-kokou-no-hito"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .c-manga a[href*="7375-kokou-no-hito"] .image-cutter {
+    background: url("https://media.giphy.com/media/O7DDGkaWtuVGNKklXe/giphy.gif") no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-manga a[href*="7375-kokou-no-hito"] .image-decor::before {
+    content: 'People cannot live alone forever';
+}
+.p-profiles .cc-favourites .c-manga a[href*="7375-kokou-no-hito"] .image-cutter::before {
+    content: "Скалолаз ";
+}
+
