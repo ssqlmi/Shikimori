@@ -32,8 +32,14 @@
       box-shadow: none;
       background: none;
    }
+   
+/*Картинка скоро*/
+  #profiles_show .cc-franchises .b-badge::after {
+    background-image: url("https://sun9-5.userapi.com/impg/ZGoZ3FGHL5-lYzMf3wFijHQIy2QHaT2fUMUfZA/K8gIb1rLqrc.jpg?size=1280x720&quality=96&sign=19ec4684493fd54b07729c68efd7ea87&c_uniq_tag=UKW5eFNhGxFOu1yeenUL3chtoMPhhAcaGKy3Bj_8CNA&type=album");
+  }
 
-/*Скрываем родные постеры*/
+/* -----------------------------  Скрываем родные постеры -----------------------------  */
+
    #profiles_show .cc-franchises .b-badge[href$="/shingeki_no_kyojin"] img,
    #profiles_show .cc-franchises .b-badge[href$="/tokyo_ghoul"] img,
    #profiles_show .cc-franchises .b-badge[href$="/demon_slayer"] img,
@@ -44,6 +50,9 @@
    #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"] img,
    #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"] img,
    #profiles_show .cc-franchises .b-badge[href$="/slam_dunk"] img, 
+   #profiles_show .cc-franchises .b-badge[href$="/hunter_x_hunter"] img, 
+   #profiles_show .cc-franchises .b-badge[href$="/evangelion"] img, 
+   #profiles_show .cc-franchises .b-badge[href$="/"] img, 
    #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"] img { 
       visibility: hidden; 
    }
@@ -57,6 +66,9 @@
    #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"]::before,
    #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"]::before,
    #profiles_show .cc-franchises .b-badge[href$="/slam_dunk"]::before, 
+   #profiles_show .cc-franchises .b-badge[href$="/hunter_x_hunter"]::before, 
+   #profiles_show .cc-franchises .b-badge[href$="/evangelion"]::before, 
+   #profiles_show .cc-franchises .b-badge[href$="/"]::before, 
    #profiles_show .cc-franchises .b-badge[href$="/shingeki_no_kyojin"]::before {
       box-shadow: 0 0 0 2px rgba(var(--block-color), 0.6);
    }
@@ -70,47 +82,75 @@
    #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"]:hover::before,
    #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"]:hover::before,
    #profiles_show .cc-franchises .b-badge[href$="/slam_dunk"]:hover::before, 
+   #profiles_show .cc-franchises .b-badge[href$="/hunter_x_hunter"]:hover::before, 
+   #profiles_show .cc-franchises .b-badge[href$="/evangelion"]:hover::before, 
+   #profiles_show .cc-franchises .b-badge[href$="/"]:hover::before, 
    #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"]:hover::before {
       box-shadow: -20px 20px 0 -17px rgb(62 62 62 / 85%),
          20px -20px 0 -17px #383838, 20px 20px 0 -20px rgb(0 0 0 / 80%),
          0 0 0 2px rgb(0 0 0 / 80%);
    }
-/* Ставим новые постеры - Франшизы */
+   
+/* -----------------------------  Ставим новые постеры - Франшизы -----------------------------  */
+   /* --------- (Атака титанов) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/shingeki_no_kyojin"]::after {
       background-image: url("https://media.tenor.com/vxuKgx3smEcAAAAC/titan-attack-on-titans.gif");
    }
+   /* --------- (Токийский гуль) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/tokyo_ghoul"]::after {
       background-image: url("https://media.tenor.com/pKkf9quQH-MAAAAC/tokyo-ghoul-power.gif");
    }
+   /* --------- (Ванпанчмен) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"]::after {
       background-image: url("https://media.tenor.com/YH-LbMCZTrEAAAAd/okay-onepunchman.gif");
    }
+   /* --------- (Клинок, рассекающий демонов) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/demon_slayer"]::after {
       background-image: url("https://media.tenor.com/jvbPYIiSRr4AAAAC/rengoku-kyojuro.gif");
    }
+   /* --------- (Моб Психо 100) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/mob_psycho"]::after {
       background-image: url("https://media.tenor.com/TY55ceO0B3MAAAAd/reigen-mob-psycho100.gif");
    }
+   /* --------- (Класс Убийц) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/ansatsu_kyoushitsu"]::after {
       background-image: url("https://media.tenor.com/mIYdjGufdioAAAAC/assassination-classroom.gif");
    }
+   /* --------- (Гопожа Кагуя) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/kaguya_sama"]::after {
       background-image: url("https://media.tenor.com/nkVaxlCatJgAAAAd/chika-dance.gif");
    }
+   /* --------- (Баскетбол Куроко) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/kuroko_no_basket"]::after {
       background-image: url("https://media.tenor.com/fJYEXV_jyxQAAAAC/kuroko-no-basuke-anime.gif");
    }
+   /* --------- (Психопаспорт) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/psycho_pass"]::after {
       background-image: url("https://media.tenor.com/VO6YDna89-UAAAAC/makishima-makishima-shogo.gif");
    }
+   /* --------- (Пираты Черной Лагуны) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/black_lagoon"]::after {
       background-image: url("https://media.tenor.com/rHy6sEVvq2YAAAAC/revy-black-lagoon.gif");
    }
+   /* --------- (Слэм-данк) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/slam_dunk"]::after {
       background-image: url("https://i.pinimg.com/originals/83/16/4f/83164fb6e5bcc8bb8135459424cae148.gif"); 
    }
+   /* --------- (Охотник х Охотник) --------- */
+   #profiles_show .cc-franchises .b-badge[href$="/hunter_x_hunter"]::after {
+      background-image: url("https://thumbs.gfycat.com/BitterCheapAruanas-size_restricted.gif"); 
+   }
+   /* --------- (Евангелион) --------- */
+   #profiles_show .cc-franchises .b-badge[href$="/evangelion"]::after {
+      background-image: url("https://i.pinimg.com/originals/0b/39/5e/0b395ec9f6d66c9e4cf9d4a0bd5aa55e.gif"); 
+   }
+   /* --------- () --------- */
+   #profiles_show .cc-franchises .b-badge[href$="/"]::after {
+      background-image: url(""); 
+   }
    
-/*Картинка скоро*/
-  #profiles_show .cc-franchises .b-badge::after {
-    background-image: url("https://sun9-5.userapi.com/impg/ZGoZ3FGHL5-lYzMf3wFijHQIy2QHaT2fUMUfZA/K8gIb1rLqrc.jpg?size=1280x720&quality=96&sign=19ec4684493fd54b07729c68efd7ea87&c_uniq_tag=UKW5eFNhGxFOu1yeenUL3chtoMPhhAcaGKy3Bj_8CNA&type=album");
-  }
+   
+   
+   
+  
+
