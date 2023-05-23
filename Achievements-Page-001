@@ -11,44 +11,62 @@
    background-size: cover;
 }
 
-/* Скрытые старых изображений */
-/* Атака титанов */
+/* ----------------------------- Скрытые старых изображений ----------------------------- */
+/* 1 - Атака титанов */
 .p-achievements-index .b-badge[href$="/shingeki_no_kyojin"] img,
 .p-achievements-franchise .b-badge[href$="/shingeki_no_kyojin"] img,
+
 /* Ванпанчмен */
 .p-achievements-index .b-badge[href$="/one_punch_man"] img,
 .p-achievements-franchise .b-badge[href$="/one_punch_man"] img,
+
 /* Клинок, рассекающий демонов */
 .p-achievements-index .b-badge[href$="/demon_slayer"] img,
 .p-achievements-franchise .b-badge[href$="/demon_slayer"] img,
+
 /* Моб Психо 100 */
 .p-achievements-index .b-badge[href$="/mob_psycho"] img,
 .p-achievements-franchise .b-badge[href$="/mob_psycho"] img,
+
 /* Класс Убийц */
 .p-achievements-index .b-badge[href$="/ansatsu_kyoushitsu"] img,
 .p-achievements-franchise .b-badge[href$="/ansatsu_kyoushitsu"] img,
+
 /* Кагуя */
 .p-achievements-index .b-badge[href$="/kaguya_sama"] img,
 .p-achievements-franchise .b-badge[href$="/kaguya_sama"] img,
+
 /* Баскетбол Куроко */
 .p-achievements-index .b-badge[href$="/kuroko_no_basket"] img,
 .p-achievements-franchise .b-badge[href$="/kuroko_no_basket"] img,
-/* Псизопаспорт */
+
+/* Психопаспорт */
 .p-achievements-index .b-badge[href$="/psycho_pass"] img,
 .p-achievements-franchise .b-badge[href$="/psycho_pass"] img,
+
 /* Пираты Черной Лагуны */
 .p-achievements-index .b-badge[href$="/black_lagoon"] img,
 .p-achievements-franchise .b-badge[href$="/black_lagoon"] img,
+
 /* Слэм-данк */
 .p-achievements-index .b-badge[href$="/slam_dunk"] img,
 .p-achievements-franchise .b-badge[href$="/slam_dunk"] img,
+
+/* Охотник х Охотник */
+.p-achievements-index .b-badge[href$="/hunter_x_hunter"] img,
+.p-achievements-franchise .b-badge[href$="/hunter_x_hunter"] img,
+
+/* Евангелион */
+.p-achievements-index .b-badge[href$="/evangelion"] img,
+.p-achievements-franchise .b-badge[href$="/evangelion"] img,
+
 /* Токийский гуль */
 .p-achievements-index .b-badge[href$="/tokyo_ghoul"] img,
 .p-achievements-franchise .b-badge[href$="/tokyo_ghoul"] img {
    visibility: hidden;
 }
 
-/* Вставка новых изображений */
+/* ----------------------------- Вставка новых изображений -----------------------------*/
 /* Атака титанов */
 .p-achievements-index .b-badge[href$="/shingeki_no_kyojin"],
 .p-achievements-franchise .b-badge[href$="/shingeki_no_kyojin"] {
@@ -104,4 +122,19 @@
 .p-achievements-franchise .b-badge[href$="/slam_dunk"] {
    background-image: url("https://i.pinimg.com/originals/83/16/4f/83164fb6e5bcc8bb8135459424cae148.gif");
 }
-/* ------------------------------------------------------------------------------------------------------------------------ */
+/* Охотник х Охотник */
+.p-achievements-index .b-badge[href$="/hunter_x_hunter"],
+.p-achievements-franchise .b-badge[href$="/hunter_x_hunter"] {
+   background-image: url("https://thumbs.gfycat.com/BitterCheapAruanas-size_restricted.gif");
+}
+/* Евангелион */
+.p-achievements-index .b-badge[href$="/evangelion"],
+.p-achievements-franchise .b-badge[href$="/evangelion"] {
+   background-image: url("https://i.pinimg.com/originals/0b/39/5e/0b395ec9f6d66c9e4cf9d4a0bd5aa55e.gif");
+}
+/*  */
+.p-achievements-index .b-badge[href$="/"],
+.p-achievements-franchise .b-badge[href$="/"] {
+   background-image: url("");
+}
+
