@@ -11,7 +11,7 @@
     content: 'People cannot live alone forever';
 }
 .p-profiles .cc-favourites .c-manga a[href*="7375-kokou-no-hito"] .image-cutter::before {
-    content: "Скалолаз ";
+    content: "Kokou no Hito";
 }
 
 /* Shingeki no Kyojin  */
