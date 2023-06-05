@@ -375,6 +375,17 @@ img[src*="/characters/1111/"] {
     content: "C.C";
 }
 
+/* All Might */
+img[src*="/characters/117921/"] {
+  content: url("https://media.giphy.com/media/MMQqsRIrB4oUkTKZrX/giphy.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*=""117921-all-might] .image-cutter::before {
+    content: "Всевышний";
+}
+.p-profiles .cc-favourites .c-character a[href*="117921-all-might"] .image-decor::before {
+    content: "Всемогущий";
+}
+
 /*  */
 img[src*="/characters/0/"] {
   content: url("");
@@ -385,5 +396,3 @@ img[src*="/characters/0/"] {
 .p-profiles .cc-favourites .c-character a[href*=""] .image-decor::before {
     content: "";
 }
-
-
