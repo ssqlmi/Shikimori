@@ -379,7 +379,7 @@ img[src*="/characters/1111/"] {
 img[src*="/characters/117921/"] {
   content: url("https://media.giphy.com/media/MMQqsRIrB4oUkTKZrX/giphy.gif");
 }
-.p-profiles .cc-favourites .c-character a[href*=""117921-all-might] .image-cutter::before {
+.p-profiles .cc-favourites .c-character a[href*="117921-all-might"] .image-cutter::before {
     content: "Всевышний";
 }
 .p-profiles .cc-favourites .c-character a[href*="117921-all-might"] .image-decor::before {
