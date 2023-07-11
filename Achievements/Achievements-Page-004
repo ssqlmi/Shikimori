@@ -64,6 +64,10 @@
 .p-achievements-index .b-badge[href$="/code_geass"] img,
 .p-achievements-franchise .b-badge[href$="/code_geass"] img,
 
+/* Повар-боец Сома */
+.p-achievements-index .b-badge[href$="/shokugeki_no_souma"] img,
+.p-achievements-franchise .b-badge[href$="/shokugeki_no_souma"] img,
+
 /*   
 .p-achievements-index .b-badge[href$="/"] img,
 .p-achievements-franchise .b-badge[href$="/"] img,*/
