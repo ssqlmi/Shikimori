@@ -145,6 +145,11 @@
 .p-achievements-franchise .b-badge[href$="/code_geass"] {
    background-image: url("https://media.tenor.com/KQG5JPLWBkQAAAAC/lelouch-vi-britannia-code-geass.gif");
 }
+/* Повар-боец Сома */
+.p-achievements-index .b-badge[href$="/shokugeki_no_souma"],
+.p-achievements-franchise .b-badge[href$="/shokugeki_no_souma"] {
+   background-image: url("https://thumbs.gfycat.com/ContentBadCicada.webp"); //или https://media.tenor.com/aN_KPXIUuD0AAAAC/honey-anime.gif
+}
 /*  */
 .p-achievements-index .b-badge[href$="/"],
 .p-achievements-franchise .b-badge[href$="/"] {
