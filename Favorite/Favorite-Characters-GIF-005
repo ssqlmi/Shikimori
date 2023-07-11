@@ -386,6 +386,17 @@ img[src*="/characters/117921/"] {
     content: "Всемогущий";
 }
 
+/* Юкихиро Сома */
+img[src*="/characters/75216/"] {
+  content: url("https://i.pinimg.com/originals/a2/ba/c6/a2bac6b4ce94598a5870839c7355ca76.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="75216-souma-yukihira"] .image-cutter::before {
+    content: "Целеустремлённый парень";
+}
+.p-profiles .cc-favourites .c-character a[href*="75216-souma-yukihira"] .image-decor::before {
+    content: "Сома Юкихира";
+}
+
 /*  */
 img[src*="/characters/0/"] {
   content: url("");
