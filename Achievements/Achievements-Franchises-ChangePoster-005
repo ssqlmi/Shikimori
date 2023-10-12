@@ -156,7 +156,7 @@
    }
    /* --------- (Повар-боец Сома) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/shokugeki_no_souma"]::after {
-      background-image: url("https://thumbs.gfycat.com/ContentBadCicada.webp"); 
+      background-image: url("https://media.tenor.com/aN_KPXIUuD0AAAAC/honey-anime.gif"); 
    }
    /* --------- () --------- */
    #profiles_show .cc-franchises .b-badge[href$="/"]::after {
