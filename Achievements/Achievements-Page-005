@@ -152,7 +152,7 @@
 /* Повар-боец Сома */
 .p-achievements-index .b-badge[href$="/shokugeki_no_souma"],
 .p-achievements-franchise .b-badge[href$="/shokugeki_no_souma"] {
-   background-image: url("https://thumbs.gfycat.com/ContentBadCicada.webp"); //или https://media.tenor.com/aN_KPXIUuD0AAAAC/honey-anime.gif
+   background-image: url("https://media.tenor.com/aN_KPXIUuD0AAAAC/honey-anime.gif"); //или https://thumbs.gfycat.com/ContentBadCicada.webp 
 }
 /*  */
 .p-achievements-index .b-badge[href$="/"],
