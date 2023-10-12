@@ -144,7 +144,7 @@
    }
    /* --------- (Охотник х Охотник) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/hunter_x_hunter"]::after {
-      background-image: url("https://thumbs.gfycat.com/BitterCheapAruanas-size_restricted.gif"); 
+      background-image: url("https://media.giphy.com/media/pNUZsytJ7chb3TgHKe/giphy.gif"); 
    }
    /* --------- (Евангелион) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/evangelion"]::after {
