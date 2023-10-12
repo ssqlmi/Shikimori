@@ -137,7 +137,7 @@
 /* Охотник х Охотник */
 .p-achievements-index .b-badge[href$="/hunter_x_hunter"],
 .p-achievements-franchise .b-badge[href$="/hunter_x_hunter"] {
-   background-image: url("https://thumbs.gfycat.com/BitterCheapAruanas-size_restricted.gif");
+   background-image: url("https://media0.giphy.com/media/pNUZsytJ7chb3TgHKe/200.webp");
 }
 /* Евангелион */
 .p-achievements-index .b-badge[href$="/evangelion"],
