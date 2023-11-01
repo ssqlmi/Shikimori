@@ -271,7 +271,7 @@
     visibility: hidden;
 }
 .p-profiles .cc-favourites .c-anime a[href*="2904-code-geass-hangyaku-no-lelouch-r2"] .image-cutter {
-    background: url("https://thumbs.gfycat.com/AdmirableVagueBoto-size_restricted.gif") no-repeat center / cover;
+    background: url("https://i.pinimg.com/originals/28/47/e3/2847e34a55012eb4532ab4227046d9d2.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="2904-code-geass-hangyaku-no-lelouch-r2"] .image-decor::before {
     content: "🎭";
