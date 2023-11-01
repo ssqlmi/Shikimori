@@ -179,7 +179,7 @@ img[src*="/characters/112889/"] {
 
 /* Vagabond */
 img[src*="/characters/6194/"] {
-  content: url("https://media.tenor.com/vapdwHzWOkIAAAAd/musashi-musashi-miyamoto.gif");
+  content: url("https://media1.giphy.com/media/UL1N3ydu1c1uRzxapE/200w.webp");
 }
 .p-profiles .cc-favourites .c-character a[href*="6194-musashi-miyamoto"] .image-cutter::before {
     content: "Бродяга";
