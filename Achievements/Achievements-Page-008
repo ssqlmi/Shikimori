@@ -154,9 +154,13 @@
 .p-achievements-franchise .b-badge[href$="/shokugeki_no_souma"] {
    background-image: url("https://media.tenor.com/aN_KPXIUuD0AAAAC/honey-anime.gif"); //или https://thumbs.gfycat.com/ContentBadCicada.webp 
 }
+/* My Hero Academia */
+.p-achievements-index .b-badge[href$="/boku_no_hero_academia"],
+.p-achievements-franchise .b-badge[href$="/boku_no_hero_academia"] {
+   background-image: url("https://www.gifcen.com/wp-content/uploads/2022/02/my-hero-academia-gif-1.gif");
+}
 /*  */
 .p-achievements-index .b-badge[href$="/"],
 .p-achievements-franchise .b-badge[href$="/"] {
    background-image: url("");
 }
-
