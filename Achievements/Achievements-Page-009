@@ -68,6 +68,10 @@
 .p-achievements-index .b-badge[href$="/shokugeki_no_souma"] img,
 .p-achievements-franchise .b-badge[href$="/shokugeki_no_souma"] img,
 
+/* Моя Геройская Акадамия */
+.p-achievements-index .b-badge[href$="/boku_no_hero_academia"] img,
+.p-achievements-franchise .b-badge[href$="/boku_no_hero_academia"] img,
+
 /*   
 .p-achievements-index .b-badge[href$="/"] img,
 .p-achievements-franchise .b-badge[href$="/"] img,*/
