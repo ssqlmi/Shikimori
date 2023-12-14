@@ -159,7 +159,7 @@
     visibility: hidden;
 }
 .p-profiles .cc-favourites .c-anime a[href*="30-neon-genesis-evangelion"] .image-cutter {
-    background: url("https://media.tenor.com/a4-ZtQJo2IsAAAAM/evangelion-shinji-ikari.gif") no-repeat center / cover;
+    background: url("https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="30-neon-genesis-evangelion"] .image-decor::before {
     content: "EXCUSE ME WHAAAAT? 🤯";
@@ -285,7 +285,7 @@
     visibility: hidden;
 }
 .p-profiles .cc-favourites .c-anime a[href*="2966-ookami-to-koushinryou"] .image-cutter {
-    background: url("https://s5.gifyu.com/images/SiC2E.md.gif") no-repeat center / cover;
+    background: url("https://imgur.com/a/R3CbYn8") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="2966-ookami-to-koushinryou"] .image-decor::before {
     content: "И вновь я понял, сколь хрупко и трепетно моё сердце";
