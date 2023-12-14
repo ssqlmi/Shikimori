@@ -121,6 +121,10 @@
 }
 .p-profiles .cc-favourites .c-anime a[href*="33352-violet-evergarden"] .image-decor::before {
     content: 'Нет другого времени, кроме "сейчас".';
+    white-space: pre-line;
+    height: 80px;
+    text-align: left;
+    padding-top: 10px;
 }
 .p-profiles .cc-favourites .c-anime a[href*="33352-violet-evergarden"] .image-cutter::before {
     content: "Вайолет Эвергарден";
@@ -135,6 +139,10 @@
 }
 .p-profiles .cc-favourites .c-anime a[href*="37521-vinland-saga"] .image-decor::before {
     content: "Все люди находятся в рабстве у чего-то.";
+    white-space: pre-line;
+    height: 80px;
+    text-align: left;
+    padding-top: 10px;
 }
 .p-profiles .cc-favourites .c-anime a[href*="37521-vinland-saga"] .image-cutter::before {
     content: "Сага о Винланде ";
@@ -191,6 +199,10 @@
 }
 .p-profiles .cc-favourites .c-anime a[href*="47194-summertime-render"] .image-decor::before {
     content: "Не время думать о прошлом, важно настоящее.";
+    white-space: pre-line;
+    height: 80px;
+    text-align: left;
+    padding-top: 10px;
 }
 .p-profiles .cc-favourites .c-anime a[href*="47194-summertime-render"] .image-cutter::before {
     content: "Летнее время";
@@ -236,7 +248,7 @@
     white-space: pre-line;
     height: 80px;
     text-align: left;
-    padding-top:10px;
+    padding-top: 10px;
 }
 .p-profiles .cc-favourites .c-anime a[href*="z30276-one-punch-man"] .image-cutter::before {
     content: "Ванпанчмен";
@@ -296,7 +308,7 @@
   white-space: pre-line;
   height: 80px;
   text-align: left;
-  padding-top:10px;
+  padding-top: 10px;
 }
 .p-profiles .cc-favourites .c-anime a[href*="2966-ookami-to-koushinryou"] .image-cutter::before {
     content: "Волчица и пряности";
