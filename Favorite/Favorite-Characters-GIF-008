@@ -17,7 +17,7 @@ img[src*="/characters/11/"] {
   content: url("https://media.tenor.com/Lmdi03UbK80AAAAd/fullmetal-alchemist-edward-elric.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="11-edward-elric"] .image-cutter::before {
-    content: "Да не КОРОТЫШКА Я!!!";
+    content: "Мы люди... Всего лишь люди...";
 }
 .p-profiles .cc-favourites .c-character a[href*="11-edward-elric"] .image-decor::before {
     content: "Эдвард Элрик";
@@ -50,7 +50,7 @@ img[src*="/characters/81929/"] {
   content: url("https://media.tenor.com/jAzemCyAL4AAAAAC/tatsumaki.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="81929-tatsumaki"] .image-cutter::before {
-    content: "Тупа мини малыха уфф";
+    content: "Лоли гёрл";
 }
 .p-profiles .cc-favourites .c-character a[href*="81929-tatsumaki"] .image-decor::before {
     content: "Тацумаки";
@@ -61,7 +61,7 @@ img[src*="/characters/141354/"] {
   content: url("https://media.tenor.com/TZ89Av8QBVkAAAAC/violet-evergarden-violet.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="141354-violet-evergarden"] .image-cutter::before {
-    content: "ТВОИ ГЛАЗААА";
+    content: "Эти глаза...💌";
 }
 .p-profiles .cc-favourites .c-character a[href*="141354-violet-evergarden"] .image-decor::before {
     content: "Вайолет Эвергарден";
@@ -94,10 +94,10 @@ img[src*="/characters/213159/"] {
   content: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY5MzBiODdlOTVkNWNlOWU5M2E4MDQ3MjI4M2U5OTlkY2Q1ODRhMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4Z3lfPky1pLr0eSzTH/giphy.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="213159-lucyna-kushinada"] .image-cutter::before {
-    content: "Will you fly to moon with me?";
+    content: "You Never Had To Save Me.";
 }
 .p-profiles .cc-favourites .c-character a[href*="213159-lucyna-kushinada"] .image-decor::before {
-    content: "Люсина Кусинада";
+    content: "Люси";
 }
 
 /* Eren Jaeger */
@@ -116,7 +116,7 @@ img[src*="/characters/45627/"] {
   content: url("https://i.pinimg.com/originals/27/cd/fe/27cdfeeb9661a5b7d426ed6ed4e1f209.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="45627-levi"] .image-cutter::before {
-    content: "Мойте полы";
+    content: "Единственный страх - испачкаться";
 }
 .p-profiles .cc-favourites .c-character a[href*="45627-levi"] .image-decor::before {
     content: "Леви";
@@ -124,10 +124,10 @@ img[src*="/characters/45627/"] {
 
 /* Aoi Todo (Jujustu Kaisen) */
 img[src*="/characters/164484/"] {
-  content: url("https://media.tenor.com/fci-2oVglJEAAAAd/jjk-jujutsu-kaisen.gif");
+  content: url("https://media1.tenor.com/m/N-i7qFwh_N8AAAAC/jujutsu-kaisen-shibuya-arc-aoi-todo-shibuya-arc.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="164484-aoi-toudou"] .image-cutter::before {
-    content: "Настоящий ДРУГ";
+    content: "Горечь поражений и наслаждение победами ведут нас к росту.";
 }
 .p-profiles .cc-favourites .c-character a[href*="164484-aoi-toudou"] .image-decor::before {
     content: "Аой Тодо";
@@ -138,7 +138,7 @@ img[src*="/characters/164471/"] {
   content: url("https://media.tenor.com/KrKcRms3oiYAAAAM/gojo-gojo-satoru.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="164471-satoru-gojou"] .image-cutter::before {
-    content: "Choosen One";
+    content: "One above All";
 }
 .p-profiles .cc-favourites .c-character a[href*="164471-satoru-gojou"] .image-decor::before {
     content: "Сатору Годзё";
@@ -182,7 +182,7 @@ img[src*="/characters/6194/"] {
   content: url("https://media1.giphy.com/media/UL1N3ydu1c1uRzxapE/200w.webp");
 }
 .p-profiles .cc-favourites .c-character a[href*="6194-musashi-miyamoto"] .image-cutter::before {
-    content: "Бродяга";
+    content: "Real";
 }
 .p-profiles .cc-favourites .c-character a[href*="6194-musashi-miyamoto"] .image-decor::before {
     content: "Мусаси Миямото";
@@ -237,7 +237,7 @@ img[src*="/characters/174159/"] {
   content: url("https://media.tenor.com/C_p7CX7qjWcAAAAC/yoriichi-demon-slayer.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="174159-yoriichi-tsugikuni"] .image-cutter::before {
-    content: "Бедолага";
+    content: "Сильнейший мечник";
 }
 .p-profiles .cc-favourites .c-character a[href*="174159-yoriichi-tsugikuni"] .image-decor::before {
     content: "Ёриити Цугикуни";
@@ -270,7 +270,7 @@ img[src*="/characters/104437/"] {
   content: url("https://media.tenor.com/Nblhv1HmoCkAAAAC/juuzou-suzuya-tokyo-ghoul.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="104437-juuzou-suzuya"] .image-cutter::before {
-    content: "Дезолятор";
+    content: "Потрясный малый";
 }
 .p-profiles .cc-favourites .c-character a[href*="104437-juuzou-suzuya"] .image-decor::before {
     content: "Джузо Сузуя";
@@ -292,7 +292,7 @@ img[src*="/characters/150823/"] {
   content: url("https://media.tenor.com/0Soa3WLqVf4AAAAC/shinei-nouzen-zacxion.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="150823-shinei-nouzen"] .image-cutter::before {
-    content: "Жнец прибыл";
+    content: "Жнец";
 }
 .p-profiles .cc-favourites .c-character a[href*="150823-shinei-nouzen"] .image-decor::before {
     content: "Синъэй Нодзэн";
@@ -318,17 +318,6 @@ img[src*="/characters/68315/"] {
 }
 .p-profiles .cc-favourites .c-character a[href*="68315-shinya-kougami"] .image-decor::before {
     content: "Синъя Когами";
-}
-
-/* Taiga Kagami */
-img[src*="/characters/18770/"] {
-  content: url("https://media.tenor.com/-4FX4MYKEzIAAAAC/kagami.gif");
-}
-.p-profiles .cc-favourites .c-character a[href*="18770-taiga-kagami"] .image-cutter::before {
-    content: "МЕТЕОРИТНЫЙ ДАААААНК";
-}
-.p-profiles .cc-favourites .c-character a[href*="18770-taiga-kagami"] .image-decor::before {
-    content: "Тайга Кагами";
 }
 
 /* Nagisa Shiota */
@@ -380,7 +369,7 @@ img[src*="/characters/117921/"] {
   content: url("https://media.giphy.com/media/MMQqsRIrB4oUkTKZrX/giphy.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="117921-all-might"] .image-cutter::before {
-    content: "Всевышний";
+    content: "Символ мира";
 }
 .p-profiles .cc-favourites .c-character a[href*="117921-all-might"] .image-decor::before {
     content: "Всемогущий";
