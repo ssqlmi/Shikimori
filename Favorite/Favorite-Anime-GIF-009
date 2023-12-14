@@ -158,7 +158,7 @@
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="30-shinseiki-evangelion"] img {
     visibility: hidden;
 }
-.p-profiles .cc-favourites .c-anime a[href*="30-neon-genesis-evangelion"] .image-cutter {
+.p-profiles .cc-favourites .c-anime a[href*="30-shinseiki-evangelion"] .image-cutter {
     background: url("https://media.tenor.com/a4-ZtQJo2IsAAAAM/evangelion-shinji-ikari.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="30-shinseiki-evangelion"] .image-decor::before {
