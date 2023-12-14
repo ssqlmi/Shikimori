@@ -397,6 +397,17 @@ img[src*="/characters/75216/"] {
     content: "Сома Юкихира";
 }
 
+/* Holo */
+img[src*="/characters/7373/"] {
+  content: url("https://media.tenor.com/wxvvMas-kFMAAAAC/spice-and-wolf-holo.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="7373-holo"] .image-cutter::before {
+    content: "Мудрая волчица";
+}
+.p-profiles .cc-favourites .c-character a[href*="7373-holo"] .image-decor::before {
+    content: "Холо";
+}
+
 /*  */
 img[src*="/characters/0/"] {
   content: url("");
