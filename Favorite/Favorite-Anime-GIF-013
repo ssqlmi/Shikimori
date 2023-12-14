@@ -1,6 +1,6 @@
 /* Favorite - Anime - GIF */
 /* -----------------------------------------------------------------------------------------------------------------------------------------------*/
-/* Cyberpunk Edgerunners */
+/* ----------------------- Cyberpunk Edgerunners ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="42310-cyberpunk-edgerunners"] img {
     visibility: hidden;
 }
@@ -8,13 +8,13 @@
     background: url("https://media.tenor.com/GPv6QRo2ejAAAAAd/chilling-cyberpunk-edgerunners.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="42310-cyberpunk-edgerunners"] .image-decor::before {
-    content: "I realy wanna stay at your house.";
+    content: '"just keep running" 💔';
 }
 .p-profiles .cc-favourites .c-anime a[href*="42310-cyberpunk-edgerunners"] .image-cutter::before {
     content: "Киберпанк: Бегущие по краю";
 }
 
-/* Ходячий замок */
+/* ----------------------- Ходячий замок ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="431-howl-no-ugoku-shiro"] img {
     visibility: hidden;
 }
@@ -22,13 +22,13 @@
     background: url("https://media.tenor.com/91brd-eK3bUAAAAC/howls-moving-castle-castle.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="431-howl-no-ugoku-shiro"] .image-decor::before {
-    content: "Вайб + Хорошее настроение";
+    content: "Вайб+Хорошее настроение";
 }
 .p-profiles .cc-favourites .c-anime a[href*="431-howl-no-ugoku-shiro"] .image-cutter::before {
     content: "Ходячий замок";
 }
 
-/* Могила светлячков */
+/* ----------------------- Могила светлячков ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="x578-hotaru-no-haka"] img {
     visibility: hidden;
 }
@@ -36,13 +36,13 @@
     background: url("https://media.tenor.com/otZ6qsYEh54AAAAC/grave-of-the-fireflies-take-care.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="x578-hotaru-no-haka"] .image-decor::before {
-    content: "До слёз 😭";
+    content: "...";
 }
 .p-profiles .cc-favourites .c-anime a[href*="x578-hotaru-no-haka"] .image-cutter::before {
     content: "Могила светлячков";
 }
 
-/* Крутой учитель Онидзука */
+/* ----------------------- Крутой учитель Онидзука ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="245-great-teacher-onizuka"] img {
     visibility: hidden;
 }
@@ -56,7 +56,7 @@
     content: "Крутой учитель Онидзука";
 }
 
-/* Ковбой Бибоп */
+/* ----------------------- Ковбой Бибоп ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="1-cowboy-bebop"] img {
     visibility: hidden;
 }
@@ -70,7 +70,7 @@
     content: "Ковбой Бибоп";
 }
 
-/* Атака титанов */
+/* ----------------------- Атака титанов ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="16498-shingeki-no-kyojin"] img {
     visibility: hidden;
 }
@@ -78,13 +78,13 @@
     background: url("https://media.tenor.com/9O_7QR3G8pQAAAAC/aot-attack.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="16498-shingeki-no-kyojin"] .image-decor::before {
-    content: "Это база";
+    content: "Это уже база";
 }
 .p-profiles .cc-favourites .c-anime a[href*="16498-shingeki-no-kyojin"] .image-cutter::before {
     content: "Атака титанов";
 }
 
-/* Стальной алхимик: Братство */
+/* ----------------------- Стальной алхимик: Братство ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="z5114-fullmetal-alchemist-brotherhood"] img {
     visibility: hidden;
 }
@@ -98,7 +98,7 @@
     content: "Стальной алхимик: Братство";
 }
 
-/* Охотник х Охотник */
+/* ----------------------- Охотник х Охотник ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="z11061-hunter-x-hunter-2011"] img {
     visibility: hidden;
 }
@@ -106,13 +106,13 @@
     background: url("https://media.giphy.com/media/pNUZsytJ7chb3TgHKe/giphy.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="z11061-hunter-x-hunter-2011"] .image-decor::before {
-    content: "Мля ну это комфорт";
+    content: "Комфортик 💚";
 }
 .p-profiles .cc-favourites .c-anime a[href*="z11061-hunter-x-hunter-2011"] .image-cutter::before {
     content: "Охотник х Охотник";
 }
 
-/* Вайолет Эвергарден */
+/* ----------------------- Вайолет Эвергарден ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="33352-violet-evergarden"] img {
     visibility: hidden;
 }
@@ -120,13 +120,13 @@
     background: url("https://media.tenor.com/_nrzUUu02xcAAAAC/violet-evergarden.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="33352-violet-evergarden"] .image-decor::before {
-    content: '"Я люблю тебя." ❤️';
+    content: 'Нет другого времени, кроме "сейчас".';
 }
 .p-profiles .cc-favourites .c-anime a[href*="33352-violet-evergarden"] .image-cutter::before {
     content: "Вайолет Эвергарден";
 }
 
-/* Сага о Винланде  */
+/* ----------------------- Сага о Винланде  ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="37521-vinland-saga"] img {
     visibility: hidden;
 }
@@ -134,13 +134,13 @@
     background: url("https://media.tenor.com/PosEPrSNOoIAAAAC/thorfinn-vinland-saga.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="37521-vinland-saga"] .image-decor::before {
-    content: "Настоящему воину меч не нужен.";
+    content: "Все люди находятся в рабстве у чего-то.";
 }
 .p-profiles .cc-favourites .c-anime a[href*="37521-vinland-saga"] .image-cutter::before {
     content: "Сага о Винланде ";
 }
 
-/* Врата Штейна */
+/* ----------------------- Врата Штейна ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="z9253-steins-gate"] img {
     visibility: hidden;
 }
@@ -154,7 +154,7 @@
     content: "Врата Штейна";
 }
 
-/* Евангелион нового поколения */
+/* ----------------------- Евангелион нового поколения ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="30-shinseiki-evangelion"] img {
     visibility: hidden;
 }
@@ -162,13 +162,13 @@
     background: url("https://media.tenor.com/a4-ZtQJo2IsAAAAM/evangelion-shinji-ikari.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="30-shinseiki-evangelion"] .image-decor::before {
-    content: "EXCUSE ME WHAAAAT? 🤯";
+    content: "Невозможно описать";
 }
 .p-profiles .cc-favourites .c-anime a[href*="30-shinseiki-evangelion"] .image-cutter::before {
     content: "Евангелион нового поколения";
 }
 
-/* Класс убийц  */
+/* ----------------------- Класс убийц ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="z24833-ansatsu-kyoushitsu"] img {
     visibility: hidden;
 }
@@ -176,13 +176,13 @@
     background: url("https://media.tenor.com/oaHQYYFiFEQAAAAC/assassins-classroom-celebrate.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="z24833-ansatsu-kyoushitsu"] .image-decor::before {
-    content: "Комфорт";
+    content: "Комфортик💛";
 }
 .p-profiles .cc-favourites .c-anime a[href*="z24833-ansatsu-kyoushitsu"] .image-cutter::before {
     content: "Класс убийц ";
 }
 
-/* Летнее время */
+/* ----------------------- Летнее время ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="47194-summertime-render"] img {
     visibility: hidden;
 }
@@ -190,13 +190,13 @@
     background: url("https://media.tenor.com/0DjFPaUUsQIAAAAd/shinpei-ajiro.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="47194-summertime-render"] .image-decor::before {
-    content: "Туда сюда время";
+    content: "Не время думать о прошлом, важно настоящее.";
 }
 .p-profiles .cc-favourites .c-anime a[href*="47194-summertime-render"] .image-cutter::before {
     content: "Летнее время";
 }
 
-/* Агент времени */
+/* ----------------------- Агент времени ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="44074-shiguang-dailiren"] img {
     visibility: hidden;
 }
@@ -210,7 +210,7 @@
     content: "Агент времени";
 }
 
-/* Семья шпиона */
+/* ----------------------- Семья шпиона ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="50265-spy-x-family"] img {
     visibility: hidden;
 }
@@ -218,13 +218,13 @@
     background: url("https://media.tenor.com/P8zYAEsBq1MAAAAC/forger-family-dancing-spy-x-family.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="50265-spy-x-family"] .image-decor::before {
-    content: "Это так захватывающе!";
+    content: "Первое аниме";
 }
 .p-profiles .cc-favourites .c-anime a[href*="50265-spy-x-family"] .image-cutter::before {
     content: "Семья шпиона";
 }
 
-/* Ванпанчмен */
+/* ----------------------- Ванпанчмен ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="z30276-one-punch-man"] img {
     visibility: hidden;
 }
@@ -232,13 +232,17 @@
     background: url("https://media.tenor.com/NTULSO8khWMAAAAC/saitama-one-punch-man.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="z30276-one-punch-man"] .image-decor::before {
-    content: 'Он два раза не ударяет!';
+    content: "Предел есть у всего, кроме человека! Если он найдет свой путь.";
+    white-space: pre-line;
+    height: 80px;
+    text-align: left;
+    padding-top:10px;
 }
 .p-profiles .cc-favourites .c-anime a[href*="z30276-one-punch-man"] .image-cutter::before {
     content: "Ванпанчмен";
 }
 
-/* Песнь ночных сов */
+/* ----------------------- Песнь ночных сов ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="50346-yofukashi-no-uta"] img {
     visibility: hidden;
 }
@@ -252,7 +256,7 @@
     content: "Песнь ночных сов";
 }
 
-/* Клинок, рассекающий демонов */
+/* ----------------------- Клинок, рассекающий демонов ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="z38000-kimetsu-no-yaiba"] img {
     visibility: hidden;
 }
@@ -266,7 +270,7 @@
     content: "Клинок, рассекающий демонов";
 }
 
-/* Код Гиас */
+/* ----------------------- Код Гиас ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="2904-code-geass-hangyaku-no-lelouch-r2"] img {
     visibility: hidden;
 }
@@ -280,7 +284,7 @@
     content: "Код Гиас";
 }
 
-/* Spice and Wolf */
+/* ----------------------- Spice and Wolf ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="2966-ookami-to-koushinryou"] img {
     visibility: hidden;
 }
@@ -298,3 +302,18 @@
     content: "Волчица и пряности";
 }
 
+
+/* ----------------------- ____ ----------------------- 
+.p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="___"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .c-anime a[href*="___"] .image-cutter {
+    background: url("__gif___") no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-anime a[href*="___"] .image-decor::before {
+    content: "___";
+}
+.p-profiles .cc-favourites .c-anime a[href*="___"] .image-cutter::before {
+    content: "___";
+}
+*/
