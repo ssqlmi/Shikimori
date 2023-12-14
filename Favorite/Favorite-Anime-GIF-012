@@ -288,8 +288,13 @@
     background: url("http://d.zaix.ru/DJCZ.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="2966-ookami-to-koushinryou"] .image-decor::before {
-    content: "И вновь я понял, сколь хрупко и трепетно моё сердце";
+  content: "И вновь я понял, сколь хрупко и трепетно моё сердце";
+  white-space: pre-line;
+  height: 80px;
+  text-align: left;
+  padding-top:10px;
 }
 .p-profiles .cc-favourites .c-anime a[href*="2966-ookami-to-koushinryou"] .image-cutter::before {
     content: "Волчица и пряности";
 }
+
