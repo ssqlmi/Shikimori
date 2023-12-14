@@ -155,16 +155,16 @@
 }
 
 /* Евангелион нового поколения */
-.p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="30-neon-genesis-evangelion"] img {
+.p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="30-shinseiki-evangelion"] img {
     visibility: hidden;
 }
 .p-profiles .cc-favourites .c-anime a[href*="30-neon-genesis-evangelion"] .image-cutter {
-    background: url("https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif") no-repeat center / cover;
+    background: url("https://media.tenor.com/a4-ZtQJo2IsAAAAM/evangelion-shinji-ikari.gif") no-repeat center / cover;
 }
-.p-profiles .cc-favourites .c-anime a[href*="30-neon-genesis-evangelion"] .image-decor::before {
+.p-profiles .cc-favourites .c-anime a[href*="30-shinseiki-evangelion"] .image-decor::before {
     content: "EXCUSE ME WHAAAAT? 🤯";
 }
-.p-profiles .cc-favourites .c-anime a[href*="30-neon-genesis-evangelion"] .image-cutter::before {
+.p-profiles .cc-favourites .c-anime a[href*="30-shinseiki-evangelion"] .image-cutter::before {
     content: "Евангелион нового поколения";
 }
 
@@ -280,12 +280,12 @@
     content: "Код Гиас";
 }
 
-/* Spice and Wolf */
+/* Spice and Wolf 
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="2966-ookami-to-koushinryou"] img {
     visibility: hidden;
 }
 .p-profiles .cc-favourites .c-anime a[href*="2966-ookami-to-koushinryou"] .image-cutter {
-    background: url("https://imgur.com/a/R3CbYn8") no-repeat center / cover;
+    background: url("--------") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="2966-ookami-to-koushinryou"] .image-decor::before {
     content: "И вновь я понял, сколь хрупко и трепетно моё сердце";
@@ -293,3 +293,4 @@
 .p-profiles .cc-favourites .c-anime a[href*="2966-ookami-to-koushinryou"] .image-cutter::before {
     content: "Волчица и пряности";
 }
+*/
