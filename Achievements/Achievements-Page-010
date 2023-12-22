@@ -156,7 +156,7 @@
 /* Повар-боец Сома */
 .p-achievements-index .b-badge[href$="/shokugeki_no_souma"],
 .p-achievements-franchise .b-badge[href$="/shokugeki_no_souma"] {
-   background-image: url("https://media.tenor.com/aN_KPXIUuD0AAAAC/honey-anime.gif"); //или https://thumbs.gfycat.com/ContentBadCicada.webp 
+   background-image: url("https://media.giphy.com/media/dU3H8B7xj1LX7Z6MKR/giphy.gif");
 }
 /* My Hero Academia */
 .p-achievements-index .b-badge[href$="/boku_no_hero_academia"],
