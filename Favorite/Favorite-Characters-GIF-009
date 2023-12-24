@@ -397,6 +397,28 @@ img[src*="/characters/7373/"] {
     content: "Холо";
 }
 
+/* Камина */
+img[src*="/characters/2075/"] {
+  content: url("https://media.tenor.com/o2iKk-ibFpIAAAAd/gurren-lagann-kamina.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="2075-kamina"] .image-cutter::before {
+    content: '"Не должно мужчине ходить повесив голову, Симон!"';
+}
+.p-profiles .cc-favourites .c-character a[href*="2075-kamina"] .image-decor::before {
+    content: "Камина";
+}
+
+/* Ния */
+img[src*="/characters/2761/"] {
+  content: url("https://animesher.com/orig/0/61/614/6147/animesher.com_gurren-lagann-gif-nia-614727.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="2761-nia-teppelin"] .image-cutter::before {
+    content: "🤩";
+}
+.p-profiles .cc-favourites .c-character a[href*="2761-nia-teppelin"] .image-decor::before {
+    content: "Ния Тэппелин";
+}
+
 /*  */
 img[src*="/characters/0/"] {
   content: url("");
