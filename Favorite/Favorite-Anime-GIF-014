@@ -314,6 +314,19 @@
     content: "Волчица и пряности";
 }
 
+/* ----------------------- Gurren Lagann ----------------------- */
+.p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="z2001-tengen-toppa-gurren-lagann"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .c-anime a[href*="z2001-tengen-toppa-gurren-lagann"] .image-cutter {
+    background: url("https://media1.tenor.com/m/0NktZdQEsvYAAAAd/gurren-lagann-tengen-toppa-gurren-lagann.gif") no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-anime a[href*="z2001-tengen-toppa-gurren-lagann"] .image-decor::before {
+    content: "___";
+}
+.p-profiles .cc-favourites .c-anime a[href*="z2001-tengen-toppa-gurren-lagann"] .image-cutter::before {
+    content: "Гуррен-Лагган";
+}
 
 /* ----------------------- ____ ----------------------- 
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="___"] img {
