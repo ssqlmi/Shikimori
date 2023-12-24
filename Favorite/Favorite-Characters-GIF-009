@@ -402,7 +402,7 @@ img[src*="/characters/2075/"] {
   content: url("https://media.tenor.com/o2iKk-ibFpIAAAAd/gurren-lagann-kamina.gif");
 }
 .p-profiles .cc-favourites .c-character a[href*="2075-kamina"] .image-cutter::before {
-    content: '"Не должно мужчине ходить повесив голову, Симон!"';
+    content: '"Настоящий мужчина не умрет, даже если его убить."';
 }
 .p-profiles .cc-favourites .c-character a[href*="2075-kamina"] .image-decor::before {
     content: "Камина";
