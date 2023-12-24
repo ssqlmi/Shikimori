@@ -322,7 +322,7 @@
     background: url("https://media1.tenor.com/m/0NktZdQEsvYAAAAd/gurren-lagann-tengen-toppa-gurren-lagann.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="z2001-tengen-toppa-gurren-lagann"] .image-decor::before {
-    content: "___";
+    content: "Детское. Но кайфовое";
 }
 .p-profiles .cc-favourites .c-anime a[href*="z2001-tengen-toppa-gurren-lagann"] .image-cutter::before {
     content: "Гуррен-Лагган";
