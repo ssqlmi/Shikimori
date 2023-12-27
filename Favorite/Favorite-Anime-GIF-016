@@ -328,6 +328,21 @@
     content: "Гуррен-Лагган";
 }
 
+/* ----------------------- Slam Dunk ----------------------- */
+.p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="z170-slam-dunk"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .c-anime a[href*="z170-slam-dunk"] .image-cutter {
+    background: url("http://d.zaix.ru/DYWi.gif") no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-anime a[href*="z170-slam-dunk"] .image-decor::before {
+    content: "Чудесно🏀";
+}
+.p-profiles .cc-favourites .c-anime a[href*="z170-slam-dunk"] .image-cutter::before {
+    content: "Slam Dunk";
+}
+
+
 /* ----------------------- ____ ----------------------- 
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="___"] img {
     visibility: hidden;
