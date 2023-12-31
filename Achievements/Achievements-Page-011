@@ -72,6 +72,10 @@
 .p-achievements-index .b-badge[href$="/boku_no_hero_academia"] img,
 .p-achievements-franchise .b-badge[href$="/boku_no_hero_academia"] img,
 
+/* Konosuba */
+.p-achievements-index .b-badge[href$="/konosuba"] img,
+.p-achievements-franchise .b-badge[href$="/konosuba"] img,
+
 /*   
 .p-achievements-index .b-badge[href$="/"] img,
 .p-achievements-franchise .b-badge[href$="/"] img,*/
@@ -162,6 +166,11 @@
 .p-achievements-index .b-badge[href$="/boku_no_hero_academia"],
 .p-achievements-franchise .b-badge[href$="/boku_no_hero_academia"] {
    background-image: url("https://www.gifcen.com/wp-content/uploads/2022/02/my-hero-academia-gif-1.gif");
+}
+/* Konosuba */
+.p-achievements-index .b-badge[href$="/konosuba"],
+.p-achievements-franchise .b-badge[href$="/konosuba"] {
+   background-image: url("https://media0.giphy.com/media/3YLf25U9uti8sfzCHH/giphy.gif");
 }
 /*  */
 .p-achievements-index .b-badge[href$="/"],
