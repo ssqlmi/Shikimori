@@ -1,5 +1,21 @@
 /* Favorite - Anime - GIF */
 /* -----------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/* ----------------------- One Piece ----------------------- */
+.p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="21-one-piece"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .c-anime a[href*="21-one-piece"] .image-cutter {
+    background: url("https://j.gifs.com/yoD2jq.gif") no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-anime a[href*="21-one-piece"] .image-decor::before {
+    content: "🏴‍☠️🦜";
+}
+.p-profiles .cc-favourites .c-anime a[href*="21-one-piece"] .image-cutter::before {
+    content: "One Piece";
+}
+
+
 /* ----------------------- Cyberpunk Edgerunners ----------------------- */
 .p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="42310-cyberpunk-edgerunners"] img {
     visibility: hidden;
@@ -343,17 +359,4 @@
 }
 
 
-/* ----------------------- ____ ----------------------- 
-.p-profiles .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="___"] img {
-    visibility: hidden;
-}
-.p-profiles .cc-favourites .c-anime a[href*="___"] .image-cutter {
-    background: url("__gif___") no-repeat center / cover;
-}
-.p-profiles .cc-favourites .c-anime a[href*="___"] .image-decor::before {
-    content: "___";
-}
-.p-profiles .cc-favourites .c-anime a[href*="___"] .image-cutter::before {
-    content: "___";
-}
-*/
+
