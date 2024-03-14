@@ -419,6 +419,17 @@ img[src*="/characters/2761/"] {
     content: "Ния Тэппелин";
 }
 
+/* Luffy Monkey D. */
+img[src*="/characters/40/"] {
+  content: url("https://i.pinimg.com/originals/d3/b0/4e/d3b04eab1e692340264cfc7ca11c8a7d.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="40-luffy-monkey-d"] .image-cutter::before {
+    content: "Энергичный и бесстрашный.";
+}
+.p-profiles .cc-favourites .c-character a[href*="40-luffy-monkey-d"] .image-decor::before {
+    content: "Луффи";
+}
+
 /*  */
 img[src*="/characters/0/"] {
   content: url("");
