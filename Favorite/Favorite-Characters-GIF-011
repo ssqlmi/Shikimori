@@ -430,13 +430,35 @@ img[src*="/characters/40/"] {
     content: "Луффи";
 }
 
-/*  */
-img[src*="/characters/0/"] {
-  content: url("");
+/* Senku */
+img[src*="/characters/148984/"] {
+  content: url("https://64.media.tumblr.com/d3d328e8cf0d24f5327ec73601050312/tumblr_pk7ayg42MO1te5npgo3_540.gif");
 }
-.p-profiles .cc-favourites .c-character a[href*=""] .image-cutter::before {
-    content: "";
+.p-profiles .cc-favourites .c-character a[href*="148984-senkuu-ishigami"] .image-cutter::before {
+    content: "Сэнку Исигами";
 }
-.p-profiles .cc-favourites .c-character a[href*=""] .image-decor::before {
-    content: "";
+.p-profiles .cc-favourites .c-character a[href*="148984-senkuu-ishigami"] .image-decor::before {
+    content: "Как же это волнительно";
+}
+
+/* Kaseki */
+img[src*="/characters/162162/"] {
+  content: url("https://64.media.tumblr.com/84e2661032fa0eb44715a917634943dc/0c1643e63f4c2c14-f4/s540x810/e11d921dcf0f95d5ebe5ec0e0d9d9159934753c6.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="162162-kaseki"] .image-cutter::before {
+    content: "Касэки ";
+}
+.p-profiles .cc-favourites .c-character a[href*="162162-kaseki"] .image-decor::before {
+    content: "Всем дедам дед";
+}
+
+/* Юдзуриха Огава */
+img[src*="/characters/153845/"] {
+  content: url("https://img.wattpad.com/3730c7278aa34cd7d0b3e51b33030f833bcf51ff/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f484c5367766c4a7a4a7051344a413d3d2d3833393730333334362e313566343065353939326133373966623434313033343333353732382e676966");
+}
+.p-profiles .cc-favourites .c-character a[href*="153845-yuzuriha-ogawa"] .image-cutter::before {
+    content: "Юдзуриха";
+}
+.p-profiles .cc-favourites .c-character a[href*="153845-yuzuriha-ogawa"] .image-decor::before {
+    content: "Милашка";
 }
