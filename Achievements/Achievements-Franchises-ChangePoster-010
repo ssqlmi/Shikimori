@@ -56,6 +56,7 @@
    #profiles_show .cc-franchises .b-badge[href$="/shokugeki_no_souma"] img,
    #profiles_show .cc-franchises .b-badge[href$="/boku_no_hero_academia"] img,
    #profiles_show .cc-franchises .b-badge[href$="/konosuba"] img,
+   #profiles_show .cc-franchises .b-badge[href$="/dr_stone"] img,
    #profiles_show .cc-franchises .b-badge[href$="/"] img,
    #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"] img { 
       visibility: hidden; 
@@ -76,6 +77,7 @@
    #profiles_show .cc-franchises .b-badge[href$="/shokugeki_no_souma"]::before, 
    #profiles_show .cc-franchises .b-badge[href$="/boku_no_hero_academia"]::before, 
    #profiles_show .cc-franchises .b-badge[href$="/konosuba"]::before,
+   #profiles_show .cc-franchises .b-badge[href$="/dr_stone"]::before,
    #profiles_show .cc-franchises .b-badge[href$="/"]::before, 
    #profiles_show .cc-franchises .b-badge[href$="/shingeki_no_kyojin"]::before {
       box-shadow: 0 0 0 2px rgba(var(--block-color), 0.6);
@@ -96,6 +98,7 @@
    #profiles_show .cc-franchises .b-badge[href$="/shokugeki_no_souma"]:hover::before, 
    #profiles_show .cc-franchises .b-badge[href$="/boku_no_hero_academia"]:hover::before, 
    #profiles_show .cc-franchises .b-badge[href$="/konosuba"]:hover::before, 
+   #profiles_show .cc-franchises .b-badge[href$="/dr_stone"]:hover::before,
    #profiles_show .cc-franchises .b-badge[href$="/#"]:hover::before, 
    #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"]:hover::before {
       box-shadow: -20px 20px 0 -17px rgb(62 62 62 / 85%),
@@ -172,11 +175,15 @@
    #profiles_show .cc-franchises .b-badge[href$="/konosuba"]::after {
       background-image: url("https://media0.giphy.com/media/3YLf25U9uti8sfzCHH/giphy.gif"); 
    }
+   /* --------- (Dr Stone) --------- */
+   #profiles_show .cc-franchises .b-badge[href$="/dr_stone"]::after {
+      background-image: url("https://i.pinimg.com/originals/e5/c0/f7/e5c0f72b15f5476214586fdb50898e55.gif"); 
+   }
+
    /* --------- () --------- */
    #profiles_show .cc-franchises .b-badge[href$="/"]::after {
       background-image: url(""); 
    }
-
    
    
    
