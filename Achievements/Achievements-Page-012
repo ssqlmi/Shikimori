@@ -76,6 +76,10 @@
 .p-achievements-index .b-badge[href$="/konosuba"] img,
 .p-achievements-franchise .b-badge[href$="/konosuba"] img,
 
+/* Dr Stone */
+.p-achievements-index .b-badge[href$="/dr_stone"] img,
+.p-achievements-franchise .b-badge[href$="/dr_stone"] img,
+
 /*   
 .p-achievements-index .b-badge[href$="/"] img,
 .p-achievements-franchise .b-badge[href$="/"] img,*/
@@ -172,6 +176,12 @@
 .p-achievements-franchise .b-badge[href$="/konosuba"] {
    background-image: url("https://media0.giphy.com/media/3YLf25U9uti8sfzCHH/giphy.gif");
 }
+/* Dr Stone */
+.p-achievements-index .b-badge[href$="/dr_stone"],
+.p-achievements-franchise .b-badge[href$="/dr_stone"] {
+   background-image: url("https://i.pinimg.com/originals/e5/c0/f7/e5c0f72b15f5476214586fdb50898e55.gif");
+}
+
 /*  */
 .p-achievements-index .b-badge[href$="/"],
 .p-achievements-franchise .b-badge[href$="/"] {
