@@ -1,0 +1,113 @@
+ @media screen and (min-width: 1200px) {
+  .button-left-1:hover,
+  .button-left-2:hover,
+  .button-left-3:hover,
+  .button-left-4:hover {
+    left: -2px;
+    z-index: 60;
+    opacity: 0.8;
+    background: rgba(var(--menu-back), 1);
+  }
+  .button-left-1,
+  .button-left-2,
+  .button-left-3,
+  .button-left-4 {
+    position: fixed;
+    height: 50px;
+    border: 2px solid rgba(var(--bright-color), 0.1);
+    background: rgba(var(--menu-back), 0.9);
+    box-shadow: 0 2px 4px 2px rgba(0, 0, 0, 0.18);
+    text-shadow: 0 1px 2px #00000040;
+    border-radius: 0px 1rem 1rem 0;
+    overflow: hidden;
+    z-index: 20;
+    opacity: 0.8;
+    transition: 0.5s ease-in-out, background-position 0s, border 0s,
+    border-radius 0s;
+  }
+  .button-left-1 > strong,
+  .button-left-2 > strong,
+  .button-left-3 > strong,
+  .button-left-4 > strong {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    right: 5px;
+    bottom: 0;
+    margin: auto 0;
+    border-radius: 100px;
+    box-shadow: 0px 0px 3px 3px #00000026;
+    pointer-events: none;
+    background-color: #cfd0d21a;
+    background-position: center;
+    border: 2px solid #1f1e1ee6;
+  }
+  .button-left-1 {
+    top: 5.465rem;
+    left: -120px;
+    width: 180px;
+  }
+  .button-left-2 {
+    top: 9.2rem;
+    left: -100px;
+    width: 160px;
+  }
+  .button-left-3 {
+    top: 12.92rem;
+    left: -140px;
+    width: 200px;
+  }
+  .button-left-4 {
+    top: 16.71rem;
+    left: -140px;
+    width: 200px;
+  }
+  .button-left-1 > strong {
+    background-image: url("https://moe.shikimori.one/system/user_images/original/208335/1607102.jpg");
+    background-size: cover;
+  }
+  .button-left-2 > strong {
+    background-image: url("https://desu.shikimori.one/system/user_images/original/208335/1607108.jpg");
+    background-size: cover;
+  }
+  .button-left-3 > strong {
+    background-image: url("https://i.ibb.co/7rKGmgX/bt232.png");
+    background-size: cover;
+  }
+  .button-left-4 > strong {
+    background-image: url("https://dere.shikimori.one/system/user_images/original/208335/1607109.jpg");
+    background-size: cover;
+  }
+  .button-left-1 .b-link,
+  .button-left-2 .b-link,
+  .button-left-3 .b-link,
+  .button-left-4 .b-link {
+    display: flex;
+    align-items: center;
+    height: 100% !important;
+    font-size: 16px !important;
+    color: rgba(var(--dark-color), var(--hundred)) !important;
+    justify-content: center;
+  }
+  .button-left-1 .b-link {
+    padding-right: 3rem;
+  }
+  .button-left-2 .b-link {
+    padding-right: 3rem;
+  }
+  .button-left-3 .b-link {
+    padding-right: 3rem;
+  }
+  .button-left-4 .b-link {
+    padding-right: 3rem;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .button-left-1,
+  .button-left-2,
+  .button-left-3,
+  .button-left-4 {
+    display: none;
+  }
+}
