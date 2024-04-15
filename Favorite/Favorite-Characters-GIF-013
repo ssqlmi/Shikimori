@@ -462,3 +462,17 @@ img[src*="/characters/153845/"] {
 .p-profiles .cc-favourites .c-character a[href*="153845-yuzuriha-ogawa"] .image-decor::before {
     content: "Юдзуриха";
 }
+
+/* Неферпито 
+https://64.media.tumblr.com/bd9d7b32db03ba34134d328dc3d6365c/tumblr_o4x5eedzB91rkmjxwo2_540.gif
+https://media1.tenor.com/m/loGUktXoNigAAAAC/pitou-neferpitou-pitou.gif
+*/
+img[src*="/characters/12300/"] {
+  content: url("https://i.pinimg.com/originals/d6/75/3a/d6753a0c048e935de407f12526c6a393.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="12300-neferpitou"] .image-cutter::before {
+    content: "😍";
+}
+.p-profiles .cc-favourites .c-character a[href*="12300-neferpitou"] .image-decor::before {
+    content: "Неферпито";
+}
