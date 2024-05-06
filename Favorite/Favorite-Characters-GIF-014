@@ -476,3 +476,14 @@ img[src*="/characters/12300/"] {
 .p-profiles .cc-favourites .c-character a[href*="12300-neferpitou"] .image-decor::before {
     content: "Неферпито";
 }
+
+/* Ребекка */
+img[src*="/characters/215035/"] {
+  content: url("https://64.media.tumblr.com/67b8469b9a16bd76907c3ac1ddbe4dfd/e56544f91f15894d-f6/s540x810/3d2b61e15c0d507c3658a8000f3c4adb60aef874.gifv");
+}
+.p-profiles .cc-favourites .c-character a[href*="215035-rebecca"] .image-cutter::before {
+    content: "Если бы у меня такое в жизни было, я бы щас был Супермен. БЛЯЯЯЯЯЯ";
+}
+.p-profiles .cc-favourites .c-character a[href*="215035-rebecca"] .image-decor::before {
+    content: "Ребекка";
+}
