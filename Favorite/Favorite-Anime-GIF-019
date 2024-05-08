@@ -24,7 +24,7 @@
     background: url("https://media.tenor.com/GPv6QRo2ejAAAAAd/chilling-cyberpunk-edgerunners.gif") no-repeat center / cover;
 }
 .p-profiles .cc-favourites .c-anime a[href*="42310-cyberpunk-edgerunners"] .image-decor::before {
-    content: '"just keep running" 💔';
+    content: '"just keep running" 💔' \a Каждій раз прям в сердце;
 }
 .p-profiles .cc-favourites .c-anime a[href*="42310-cyberpunk-edgerunners"] .image-cutter::before {
     content: "Киберпанк: Бегущие по краю";
