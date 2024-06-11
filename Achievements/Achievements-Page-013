@@ -80,6 +80,10 @@
 .p-achievements-index .b-badge[href$="/dr_stone"] img,
 .p-achievements-franchise .b-badge[href$="/dr_stone"] img,
 
+/* darker_than_black */
+.p-achievements-index .b-badge[href$="/darker_than_black"] img,
+.p-achievements-franchise .b-badge[href$="/darker_than_black"] img,
+
 /*   
 .p-achievements-index .b-badge[href$="/"] img,
 .p-achievements-franchise .b-badge[href$="/"] img,*/
@@ -180,6 +184,12 @@
 .p-achievements-index .b-badge[href$="/dr_stone"],
 .p-achievements-franchise .b-badge[href$="/dr_stone"] {
    background-image: url("https://i.pinimg.com/originals/e5/c0/f7/e5c0f72b15f5476214586fdb50898e55.gif");
+}
+
+/* darker_than_black */
+.p-achievements-index .b-badge[href$="/darker_than_black"],
+.p-achievements-franchise .b-badge[href$="/darker_than_black"] {
+   background-image: url("https://i.pinimg.com/originals/13/e5/20/13e520e9f7be0b4723ba2e486f8757ef.gif");
 }
 
 /*  */
