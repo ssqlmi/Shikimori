@@ -487,3 +487,15 @@ img[src*="/characters/215035/"] {
 .p-profiles .cc-favourites .c-character a[href*="215035-rebecca"] .image-decor::before {
     content: "Ребекка";
 }
+
+/* Джирайя */
+img[src*="/characters/2423/"] {
+  content: url("https://i.pinimg.com/originals/4c/b9/46/4cb946f613d0dc1c57cef968c7abe001.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="2423-jiraiya"] .image-cutter::before {
+    content: "Развратный Мудрец";
+}
+.p-profiles .cc-favourites .c-character a[href*="2423-jiraiya"] .image-decor::before {
+    content: "Джирайя";
+}
+
