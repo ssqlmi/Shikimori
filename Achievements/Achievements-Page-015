@@ -88,6 +88,10 @@
 .p-achievements-index .b-badge[href$="/mushishi"] img,
 .p-achievements-franchise .b-badge[href$="/mushishi"] img,
 
+/* spice and wolf */
+.p-achievements-index .b-badge[href$="/ookami_to_koushinryou"] img,
+.p-achievements-franchise .b-badge[href$="/ookami_to_koushinryou"] img,
+
 /*   
 .p-achievements-index .b-badge[href$="/"] img,
 .p-achievements-franchise .b-badge[href$="/"] img,*/
@@ -200,6 +204,12 @@
 .p-achievements-index .b-badge[href$="/mushishi"],
 .p-achievements-franchise .b-badge[href$="/mushishi"] {
    background-image: url("https://i.pinimg.com/originals/9f/e8/5b/9fe85b11a696e84498ab9d020d8555ab.gif");
+}
+
+/* spice and wolf */
+.p-achievements-index .b-badge[href$="/ookami_to_koushinryou"],
+.p-achievements-franchise .b-badge[href$="/ookami_to_koushinryou"] {
+   background-image: url("https://media.giphy.com/media/Zw8DRPEr4lkiRD9SjB/giphy.gif");
 }
 
 /*  */
