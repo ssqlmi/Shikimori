@@ -59,6 +59,7 @@
    #profiles_show .cc-franchises .b-badge[href$="/dr_stone"] img,
    #profiles_show .cc-franchises .b-badge[href$="/darker_than_black"] img,
    #profiles_show .cc-franchises .b-badge[href$="/mushishi"] img,
+   #profiles_show .cc-franchises .b-badge[href$="/ookami_to_koushinryou"] img,
    #profiles_show .cc-franchises .b-badge[href$="/"] img,
    #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"] img { 
       visibility: hidden; 
@@ -82,7 +83,8 @@
    #profiles_show .cc-franchises .b-badge[href$="/dr_stone"]::before,
    #profiles_show .cc-franchises .b-badge[href$="/darker_than_black"]::before,
    #profiles_show .cc-franchises .b-badge[href$="/mushishi"]::before,
-   #profiles_show .cc-franchises .b-badge[href$="/"]::before, 
+   #profiles_show .cc-franchises .b-badge[href$="/ookami_to_koushinryou"]::before,
+   #profiles_show .cc-franchises .b-badge[href$="/"]::before,
    #profiles_show .cc-franchises .b-badge[href$="/shingeki_no_kyojin"]::before {
       box-shadow: 0 0 0 2px rgba(var(--block-color), 0.6);
    }
@@ -105,7 +107,8 @@
    #profiles_show .cc-franchises .b-badge[href$="/dr_stone"]:hover::before,
    #profiles_show .cc-franchises .b-badge[href$="/darker_than_black"]:hover::before, 
    #profiles_show .cc-franchises .b-badge[href$="/mushishi"]:hover::before,
-   #profiles_show .cc-franchises .b-badge[href$="/#"]:hover::before, 
+   #profiles_show .cc-franchises .b-badge[href$="/ookami_to_koushinryou"]:hover::before,
+   #profiles_show .cc-franchises .b-badge[href$="/#"]:hover::before,
    #profiles_show .cc-franchises .b-badge[href$="/one_punch_man"]:hover::before {
       box-shadow: -20px 20px 0 -17px rgb(62 62 62 / 85%),
          20px -20px 0 -17px #383838, 20px 20px 0 -20px rgb(0 0 0 / 80%),
@@ -194,6 +197,11 @@
    /* --------- (master_mushi) --------- */
    #profiles_show .cc-franchises .b-badge[href$="/mushishi"]::after {
       background-image: url("https://i.pinimg.com/originals/9f/e8/5b/9fe85b11a696e84498ab9d020d8555ab.gif"); 
+   }
+
+   /* --------- (spice and wolf) --------- */
+   #profiles_show .cc-franchises .b-badge[href$="/ookami_to_koushinryou"]::after {
+      background-image: url("https://media.giphy.com/media/Zw8DRPEr4lkiRD9SjB/giphy.gif"); 
    }
 
    /* --------- () --------- */
