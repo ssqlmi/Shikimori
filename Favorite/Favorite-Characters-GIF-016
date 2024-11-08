@@ -499,3 +499,13 @@ img[src*="/characters/2423/"] {
     content: "Джирайя";
 }
 
+/* Хей */
+img[src*="/characters/2160/"] {
+  content: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTV4eDlqbmkxZXNyZGo3NWw1aTlwN2UzdjJxdzFmMGZhbGMwcm1wMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z2ACsQHZSidkxmdNmo/giphy.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="2160-hei"] .image-cutter::before {
+    content: "The Black Reaper";
+}
+.p-profiles .cc-favourites .c-character a[href*="2160-hei"] .image-decor::before {
+    content: "Хей";
+}
